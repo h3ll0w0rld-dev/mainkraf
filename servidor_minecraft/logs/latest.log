@@ -5869,3 +5869,16 @@ Terrain features that depend on these won't work correctly.
 [19:34:48] [Thread-87/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 49a999d0-32a7-3c2c-9584-03ae671433d2.
 [19:34:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was pummeled by Lux Jengu  Lvl 2
 [19:37:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was blown up by Creeper
+[19:43:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Ventoraptor  Lvl 10
+[19:43:36] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@174f0d06
+[19:43:36] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@174f0d06
+[19:48:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was shot by Skeleton
+[19:48:53] [Thread-92/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 790695c9-e767-39ee-9f7e-5eeece8b43e1.
+[19:49:46] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[19:49:46] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[19:49:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Raidra  Lvl 2
+[19:50:31] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[19:50:31] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[19:50:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Raidra  Lvl 2
+[19:51:16] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[19:51:16] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
