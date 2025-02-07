@@ -1,0 +1,8 @@
+StonePlantMound3,-2189,-2180,2136,2147
+StonePlantMound4,-2180,-2173,2202,2209
+ChurchGraveyardRuins,-2420,-2373,2205,2248
+StonePlantMound1,-2105,-2099,2087,2093
+StonePlantMound3,-2080,-2069,2080,2089
+StonePlantMound2,-2095,-2082,2060,2072
+BrickHenge,-2090,-2074,2241,2257
+DinosaurSkull,-2076,-2057,2180,2191

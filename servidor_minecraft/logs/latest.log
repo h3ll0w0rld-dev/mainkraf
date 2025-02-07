@@ -5901,3 +5901,19 @@ Terrain features that depend on these won't work correctly.
 [02:44:58] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
 [02:47:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Changing to clear weather]
 [02:48:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Ventoraptor
+[02:54:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Ventoraptor
+[02:54:39] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2035ms behind, skipping 40 tick(s)
+[02:54:53] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[02:54:53] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[02:55:02] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3758ms behind, skipping 75 tick(s)
+[02:55:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Teleported SolgaleoHD to SolgaleoHD]
+[02:55:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Teleported SolgaleoHD to luxvo]
+[02:55:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Teleported SolgaleoHD to Tomrc]
+[02:55:30] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[02:55:30] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[02:55:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Teleported SolgaleoHD to luxvo]
+[02:55:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Teleported Tomrc to SolgaleoHD]
+[02:56:15] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[02:56:15] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[02:58:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Spectator Mode]
+[02:58:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Survival Mode]
