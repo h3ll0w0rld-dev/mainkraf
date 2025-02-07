@@ -2,3 +2,4 @@ UndergroundCrypt,-4987,-4973,-2597,-2569
 RLCraft_DecentZombie,-4683,-4683,-2805,-2805
 RLCraft_UndergroundRuin3,-4686,-4678,-2807,-2799
 P_SmallShip,-4812,-4792,-2952,-2946
+ShrineSmallAir,-5037,-5029,-3028,-3020
