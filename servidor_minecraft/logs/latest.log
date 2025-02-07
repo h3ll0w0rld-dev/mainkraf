@@ -5793,3 +5793,7 @@ Terrain features that depend on these won't work correctly.
 [18:54:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Grue
 [18:54:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved wrongly!
 [18:55:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD was slain by Grue
+[19:01:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Chupacabra  Lvl 2
+[19:02:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Wraamon  Lvl 2
+[19:02:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was struck by lightning
+[19:03:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc went up in flames
