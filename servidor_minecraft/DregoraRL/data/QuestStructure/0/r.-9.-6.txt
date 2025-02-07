@@ -8,3 +8,5 @@ P_SmallShip,-4965,-4959,-3391,-3371
 P_VillageFarmhouse,-5086,-5074,-3447,-3435
 P_Village2Story,-5093,-5080,-3468,-3462
 VillageForgeLarge,-5070,-5058,-3467,-3451
+RLCraft_BasicWitch,-4940,-4940,-3484,-3484
+RLCraft_UndergroundRuin1,-4943,-4934,-3487,-3478
