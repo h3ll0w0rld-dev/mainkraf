@@ -40,3 +40,7 @@ DinosaurSkeleton,1891,1900,-811,-765
 StonePlantMound3,1804,1815,-832,-823
 ShrineSmallAir,1832,1840,-810,-802
 P_WitchDungeon,1663,1697,-833,-816
+SmallWoodenCottage2,1665,1673,-987,-979
+RLCraft_DecentSpider,1659,1659,-723,-723
+RLCraft_UndergroundRuin2,1654,1664,-728,-721
+StonePlantMound,1608,1613,-893,-888

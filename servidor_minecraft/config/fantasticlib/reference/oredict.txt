@@ -163,9 +163,9 @@ launcherWeb
 listAllfishraw
 listAllfishcooked
 cropSeaweed
+tallow
 buttonWood
 gemEnderBiotite
-tallow
 mushroomAny
 stoneBasalt
 stoneMarble
