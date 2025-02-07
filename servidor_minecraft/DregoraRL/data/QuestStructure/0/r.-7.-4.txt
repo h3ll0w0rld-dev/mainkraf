@@ -1,0 +1,15 @@
+StonePlantMound3,-3668,-3659,-2063,-2052
+RLCraft_DecentSkeleton,-3628,-3628,-2157,-2157
+RLCraft_UndergroundRuin3,-3634,-3626,-2162,-2154
+StoneBoulder,-3756,-3747,-2196,-2187
+StonePlantMound2,-3927,-3914,-2249,-2237
+StoneLeafMound,-3947,-3940,-2238,-2229
+PeacefulCrypt,-3898,-3882,-2384,-2360
+StoneLeafMound,-3970,-3961,-2198,-2191
+RLCraft_PlainsWindmill,-4045,-3960,-2198,-2127
+ShrineSmallFire,-4059,-4049,-2368,-2358
+StonePlantMound3,-3894,-3885,-2113,-2102
+RLCraft_DecentCaveSpider,-4009,-4009,-2421,-2421
+RLCraft_UndergroundRuin3,-4015,-4007,-2426,-2418
+RLCraft_SmallUndergroundSkeleton,-4060,-4052,-2121,-2113
+StonePlantMound4,-4047,-4040,-2104,-2097

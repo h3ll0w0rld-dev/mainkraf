@@ -1,2 +1,6 @@
 RLCraft_DecentCaveSpider,-2622,-2622,1040,1040
 RLCraft_UndergroundRuin3,-2625,-2617,1034,1042
+RLCraft_BasicCaveSpider,-2895,-2895,1116,1116
+RLCraft_UndergroundRuin1,-2901,-2892,1110,1119
+P_DesertTemple,-2911,-2861,1104,1153
+RLCraft_DesertTown,-3024,-2958,1044,1110

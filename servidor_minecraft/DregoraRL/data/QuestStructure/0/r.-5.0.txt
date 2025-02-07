@@ -1,2 +1,6 @@
 VillageTriplets,-2819,-2805,167,181
 P_Village2Story,-2830,-2817,189,195
+RLCraft_SmallUndergroundSkeleton,-2705,-2697,-350,-342
+RLCraft_DecentSpider,-2930,-2930,-406,-406
+RLCraft_UndergroundRuin3,-2932,-2924,-409,-401
+ShrineSmallWater,-3029,-3021,-280,-272

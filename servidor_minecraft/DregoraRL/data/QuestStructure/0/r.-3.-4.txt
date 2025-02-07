@@ -1,0 +1,10 @@
+P_DesertTemple,-1818,-1769,-2438,-2388
+ShrineSmallFire,-1849,-1839,-2434,-2424
+RLCraft_SmallUndergroundSkeleton,-1740,-1732,-2508,-2500
+StonePlantMound4,-1947,-1940,-2494,-2487
+StoneBoulder,-1905,-1896,-2548,-2539
+RLCraft_DecentSpider,-1925,-1925,-2254,-2254
+RLCraft_UndergroundRuin2,-1930,-1920,-2256,-2249
+DinosaurSkull,-2038,-2019,-2438,-2427
+RLCraft_DecentZombie,-1962,-1962,-2217,-2217
+RLCraft_UndergroundRuin3,-1967,-1959,-2223,-2215

@@ -1,0 +1,4 @@
+RLCraft_SmallUndergroundSkeleton,-1214,-1206,-873,-865
+DinosaurSkull,-1313,-1302,-884,-865
+RLCraft_BasicCaveSpider,-1270,-1270,-952,-952
+RLCraft_UndergroundRuin1,-1273,-1264,-955,-946

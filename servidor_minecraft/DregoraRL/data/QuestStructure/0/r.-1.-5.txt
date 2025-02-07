@@ -29,3 +29,5 @@ StoneMazePath,-818,-816,-2762,-2760
 StoneMazeEndChest,-818,-816,-2765,-2763
 StoneMazeEndChest,-821,-819,-2753,-2751
 StoneMazeSmall,-839,-816,-2765,-2742
+RLCraft_DecentWitch,-1021,-1021,-2883,-2883
+RLCraft_UndergroundRuin3,-1024,-1016,-2889,-2881

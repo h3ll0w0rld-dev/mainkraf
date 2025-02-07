@@ -5,3 +5,11 @@ RLCraft_UndergroundRuin3,2533,2541,365,373
 SmallWoodenCottage,2454,2465,325,333
 ClayWaterMound1,2384,2395,-488,-478
 SmallAbandonedMine,2114,2139,-486,-471
+P_RuinedHouse,2115,2140,-286,-269
+SmallWoodenCottage1,2318,2329,-367,-361
+PeacefulCrypt,2299,2323,-349,-333
+RLCraft_DecentZombie,2080,2080,-339,-339
+RLCraft_UndergroundRuin2,2075,2082,-344,-334
+StonePlantMound3,2376,2387,478,487
+StoneLeafMound,2381,2390,377,384
+P_RuinedHouse,2452,2477,281,298

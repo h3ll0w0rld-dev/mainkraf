@@ -1,0 +1,6 @@
+StonePlantMound1,-763,-757,1963,1969
+RLCraft_BasicZombie,-646,-646,1980,1980
+RLCraft_UndergroundRuin1,-652,-643,1974,1983
+RLCraft_DecentWitch,-583,-583,2018,2018
+RLCraft_UndergroundRuin3,-588,-580,2012,2020
+RLCraft_SmallUndergroundSkeleton,-611,-603,1969,1977

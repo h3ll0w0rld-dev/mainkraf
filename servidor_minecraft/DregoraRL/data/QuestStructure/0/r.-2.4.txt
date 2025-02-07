@@ -6,3 +6,4 @@ StoneBoulder,-1475,-1466,2270,2279
 StonePlantMound1,-1488,-1482,2248,2254
 StoneLeafMound,-1518,-1511,2099,2108
 StoneLeafMound,-1528,-1521,2212,2221
+PeacefulCrypt,-1244,-1228,2268,2292

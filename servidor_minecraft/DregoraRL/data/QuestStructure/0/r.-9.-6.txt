@@ -1,0 +1,10 @@
+P_SmallShip,-4667,-4647,-3321,-3315
+SeasonsGreenhouse,-5098,-5086,-3393,-3383
+RLCraft_Vineyard,-5111,-5083,-3381,-3361
+VillageHouseRich1,-5068,-5050,-3414,-3393
+VillageWoodMill,-5098,-5082,-3415,-3402
+VillageTriplets,-5122,-5108,-3418,-3404
+P_SmallShip,-4965,-4959,-3391,-3371
+P_VillageFarmhouse,-5086,-5074,-3447,-3435
+P_Village2Story,-5093,-5080,-3468,-3462
+VillageForgeLarge,-5070,-5058,-3467,-3451

@@ -1,1 +1,4 @@
 SmallClockworkSite,-2505,-2483,878,897
+PeacefulCrypt,-2414,-2398,899,923
+DesertHut,-2443,-2433,797,806
+UndergroundCultChamber,-2393,-2361,994,1036

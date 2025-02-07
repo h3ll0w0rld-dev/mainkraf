@@ -13,3 +13,9 @@ RLCraft_UndergroundRuin2,-2614,-2607,1006,1016
 VillageGuardTower,-2871,-2859,809,821
 P_Village2Story,-2871,-2865,848,861
 SeasonsGreenhouse,-2870,-2860,866,878
+RLCraft_BasicZombie,-2914,-2914,936,936
+RLCraft_UndergroundRuin1,-2920,-2911,933,942
+RLCraft_DecentSkeleton,-2903,-2903,925,925
+RLCraft_UndergroundRuin3,-2909,-2901,920,928
+RLCraft_DecentWitch,-2985,-2985,1023,1023
+RLCraft_UndergroundRuin2,-2990,-2980,1018,1025

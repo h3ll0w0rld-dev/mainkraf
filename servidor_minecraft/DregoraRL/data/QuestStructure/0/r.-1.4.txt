@@ -1,0 +1,6 @@
+WoodWallRemains,-737,-709,2130,2138
+RLCraft_BasicZombie,-743,-743,2057,2057
+RLCraft_UndergroundRuin1,-746,-737,2051,2060
+RLCraft_BasicSkeleton,-799,-799,2247,2247
+RLCraft_UndergroundRuin1,-802,-793,2241,2250
+RLCraft_SmallUndergroundSkeleton,-863,-855,2204,2212

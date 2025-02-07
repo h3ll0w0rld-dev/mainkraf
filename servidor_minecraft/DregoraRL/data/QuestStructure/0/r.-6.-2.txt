@@ -1,0 +1,6 @@
+RLCraft_SmallUndergroundSkeleton,-3485,-3477,-1059,-1051
+BigClockworkSite,-3583,-3538,-1103,-1068
+BigClockworkSite,-3577,-3542,-1183,-1138
+RLCraft_DecentWitch,-3318,-3318,-1248,-1248
+RLCraft_UndergroundRuin3,-3324,-3316,-1251,-1243
+PeacefulCrypt,-3372,-3348,-1385,-1369

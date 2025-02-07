@@ -1,0 +1,12 @@
+StonePlantMound,-3629,-3624,-1874,-1869
+StonePlantMound2,-3678,-3666,-1983,-1970
+StonePlantMound1,-3649,-3643,-1833,-1827
+StoneBoulder,-3660,-3651,-2031,-2022
+StonePlantMound1,-3696,-3690,-1965,-1959
+StonePlantMound4,-3722,-3715,-1912,-1905
+StonePlantMound,-3705,-3700,-1764,-1759
+PeacefulCrypt,-3730,-3714,-2039,-2015
+ShrineSmallFire,-3775,-3765,-1884,-1874
+StonePlantBoulder,-3818,-3808,-2040,-2030
+StonePlantMound4,-3981,-3974,-2034,-2027
+WoodWallRemains,-4000,-3972,-1961,-1953

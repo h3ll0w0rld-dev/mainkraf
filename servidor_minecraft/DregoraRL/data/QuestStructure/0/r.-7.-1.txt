@@ -1,0 +1,15 @@
+RLCraft_DecentSpider,-3595,-3595,-886,-886
+RLCraft_UndergroundRuin2,-3600,-3590,-888,-881
+RLCraft_DecentZombie,-3652,-3652,-913,-913
+RLCraft_UndergroundRuin2,-3654,-3647,-918,-908
+DesertWatchtower,-3714,-3704,-891,-881
+RLCraft_DecentSkeleton,-3769,-3769,-834,-834
+RLCraft_UndergroundRuin2,-3771,-3764,-839,-829
+RLCraft_DecentZombie,-3740,-3740,-912,-912
+RLCraft_UndergroundRuin2,-3745,-3735,-917,-910
+P_SmallShip,-3848,-3828,-927,-921
+P_DesertTemple,-3829,-3779,-1014,-965
+ShrineSmallWater,-3907,-3899,-951,-943
+SmallClockworkSite,-3909,-3890,-1024,-1002
+RLCraft_DecentCaveSpider,-3958,-3958,-968,-968
+RLCraft_UndergroundRuin2,-3960,-3953,-973,-963

@@ -1,0 +1,14 @@
+P_VillageInn,-4108,-4097,-1255,-1246
+VillageGuardTower,-4125,-4113,-1255,-1243
+P_Village2Story,-4112,-4099,-1290,-1284
+VillageWoodMill,-4112,-4096,-1283,-1270
+RLCraft_BasicWitch,-4159,-4159,-1523,-1523
+RLCraft_UndergroundRuin1,-4162,-4153,-1529,-1520
+ShrineSmallFire,-4515,-4505,-1396,-1386
+ShrineSmallAir,-4572,-4564,-1428,-1420
+RLCraft_Vineyard,-4321,-4293,-1258,-1238
+ThreeTowers,-4282,-4251,-1253,-1221
+P_VillageFarmhouse,-4295,-4283,-1228,-1216
+SeasonsGreenhouse,-4282,-4270,-1276,-1266
+VillageMarketplace,-4282,-4268,-1296,-1282
+VillageHouseRich1,-4252,-4234,-1286,-1265
