@@ -6540,3 +6540,15 @@ Caused by: net.minecraft.nbt.NBTException: Expected ']' but got '}' at: ...naP t
 [04:04:03] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
 [04:04:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: luxvo lost connection: Disconnected
 [04:04:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: luxvo left the game
+[04:14:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[04:14:25] [Server thread/INFO] [AUW]: Stopping DS...
+[04:14:25] [Server thread/INFO] [dimstack]: updated dimension stack configuration file
+[04:14:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[04:14:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[04:14:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[04:14:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DregoraRL'/overworld
+[04:14:25] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (DregoraRL) to config
+[04:14:25] [Server thread/INFO] [FML]: Unloading dimension 0
+[04:14:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[04:14:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[04:14:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
