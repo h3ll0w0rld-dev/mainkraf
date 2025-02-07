@@ -1,0 +1,18 @@
+{
+  "parties:9": {
+    "0:10": {
+      "members:9": {
+        "0:10": {
+          "uuid:8": "790695c9-e767-39ee-9f7e-5eeece8b43e1",
+          "status:8": "OWNER"
+        }
+      },
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "DOKI"
+        }
+      },
+      "partyID:3": 0
+    }
+  }
+}

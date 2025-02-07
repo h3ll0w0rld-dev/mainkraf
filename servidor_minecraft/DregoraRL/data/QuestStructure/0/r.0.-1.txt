@@ -1,0 +1,11 @@
+ClayWaterMound1,79,90,-663,-653
+StonePlantMound1,-2,4,-574,-568
+DinosaurSkull,-65,-46,-630,-619
+VillageInn,63,83,-762,-735
+StonePlantMound1,-5,1,-737,-731
+SeasonsGreenhouse,111,121,-734,-722
+RLCraft_Vineyard,132,152,-745,-717
+P_VillageFarmhouse,107,119,-762,-750
+VillageTriplets,102,116,-794,-780
+DinosaurSkeleton,58,67,-551,-505
+VillageWoodMill,132,148,-786,-773

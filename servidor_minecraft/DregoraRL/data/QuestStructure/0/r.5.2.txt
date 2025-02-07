@@ -1,0 +1,17 @@
+StonePlantMound4,2765,2772,1167,1174
+RLCraft_DecentSpider,2716,2716,1192,1192
+RLCraft_UndergroundRuin2,2714,2721,1187,1197
+UndergroundCrypt,2691,2705,1165,1193
+RLCraft_SmallUndergroundSkeleton,2834,2842,1041,1049
+StonePlantMound2,2829,2841,1312,1325
+Tree_Oak_TheMushroomOak_v3,2809,2868,1275,1325
+WoodThornBig,2634,2647,1054,1067
+StonePlantMound3,2930,2939,1072,1083
+StonePlantBoulder,2940,2950,1131,1141
+StonePlantMound3,2940,2949,1052,1063
+StonePlantMound2,2947,2960,1039,1051
+ClayWaterMound,2960,2968,1146,1153
+StonePlantMound1,2948,2954,1361,1367
+DinosaurSkeleton,2902,2948,1354,1363
+MysticalTree1,2615,2626,1298,1311
+RLCraft_SmallUndergroundSkeleton,2584,2592,1302,1310

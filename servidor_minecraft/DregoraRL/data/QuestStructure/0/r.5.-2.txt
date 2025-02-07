@@ -1,0 +1,2 @@
+DinosaurSkeleton,2544,2590,-1253,-1244
+P_MayanTemple1,2710,2740,-1375,-1329

@@ -1,0 +1,4 @@
+UndergroundCrypt,-2112,-2098,-1938,-1910
+DinosaurSkeleton,-2165,-2119,-1937,-1928
+UnnaturalCrater,-2173,-2133,-2056,-2016
+DesertBeacon,-2294,-2288,-1947,-1941

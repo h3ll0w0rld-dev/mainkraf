@@ -1,0 +1,4 @@
+RLCraft_DecentWitch,1769,1769,514,514
+RLCraft_UndergroundRuin3,1763,1771,511,519
+StoneLeafMound,1764,1771,544,553
+StonePlantBoulder,1969,1979,508,518

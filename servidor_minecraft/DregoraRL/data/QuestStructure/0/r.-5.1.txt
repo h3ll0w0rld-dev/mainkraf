@@ -1,0 +1,15 @@
+RLCraft_DecentSkeleton,-2620,-2620,731,731
+RLCraft_UndergroundRuin3,-2626,-2618,726,734
+MeteorSite,-2748,-2718,770,785
+P_DesertDungeon,-2756,-2704,836,889
+RLCraft_SmallUndergroundSkeleton,-2772,-2764,913,921
+VillageHouseRich,-2815,-2796,902,917
+RLCraft_SmallUndergroundSkeleton,-2810,-2802,663,671
+RLCraft_Vineyard,-2842,-2822,840,868
+VillageWoodMill,-2842,-2826,813,826
+P_VillageFarmhouse,-2850,-2838,884,896
+RLCraft_DecentSpider,-2609,-2609,1011,1011
+RLCraft_UndergroundRuin2,-2614,-2607,1006,1016
+VillageGuardTower,-2871,-2859,809,821
+P_Village2Story,-2871,-2865,848,861
+SeasonsGreenhouse,-2870,-2860,866,878

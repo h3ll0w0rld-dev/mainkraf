@@ -1,0 +1,8 @@
+StonePlantBoulder,2144,2154,-1166,-1156
+RLCraft_SmallUndergroundSkeleton,2133,2141,-1196,-1188
+RLCraft_SmallUndergroundSkeleton,2199,2207,-1096,-1088
+StonePlantBoulder,2207,2217,-1031,-1021
+ShrineSmallFire,2515,2525,-1304,-1294
+StonePlantMound1,2467,2473,-1307,-1301
+SmallOutpost,2413,2443,-1199,-1177
+StonePlantMound1,2505,2511,-1397,-1391

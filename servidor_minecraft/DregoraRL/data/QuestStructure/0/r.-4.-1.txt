@@ -1,0 +1,2 @@
+RLCraft_SmallUndergroundSkeleton,-2217,-2209,-965,-957
+RLCraft_SmallUndergroundSkeleton,-2489,-2481,-991,-983

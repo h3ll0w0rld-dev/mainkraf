@@ -1,0 +1,9 @@
+WoodWallRemains,2544,2552,586,614
+SmallWoodenCottage1,2489,2500,601,607
+P_VillageLibrary,2419,2435,576,595
+SeasonsGreenhouse,2369,2379,566,578
+RLCraft_Vineyard,2384,2412,566,586
+RLCraft_DecentWitch,2500,2500,652,652
+RLCraft_UndergroundRuin2,2495,2502,647,657
+StonePlantMound4,2494,2501,676,683
+VillageHouseRich1,2342,2363,603,621

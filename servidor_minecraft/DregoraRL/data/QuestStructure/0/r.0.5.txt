@@ -1,0 +1,9 @@
+PeacefulCrypt,-3,13,2693,2717
+DinosaurSkeleton,25,71,2651,2660
+RLCraft_DecentSpider,-60,-60,2751,2751
+RLCraft_UndergroundRuin2,-65,-55,2749,2756
+BlazeSpawnerCrystal,63,69,2573,2579
+ShrineSmallFire,57,67,2755,2765
+FallenPalmTree,126,136,2653,2657
+RLCraft_DecentWitch,41,41,2790,2790
+RLCraft_UndergroundRuin2,36,46,2788,2795

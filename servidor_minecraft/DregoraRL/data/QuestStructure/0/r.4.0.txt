@@ -1,0 +1,5 @@
+StonePlantBoulder,2530,2540,501,511
+StoneBoulder,2483,2492,493,502
+RLCraft_DecentSkeleton,2539,2539,370,370
+RLCraft_UndergroundRuin3,2533,2541,365,373
+SmallWoodenCottage,2454,2465,325,333
