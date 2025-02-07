@@ -1,1 +1,2 @@
 StonePlantMound4,2065,2072,-1025,-1018
+StoneBoulder,2238,2247,-1006,-997

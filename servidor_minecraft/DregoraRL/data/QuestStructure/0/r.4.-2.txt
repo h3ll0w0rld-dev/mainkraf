@@ -6,3 +6,16 @@ ShrineSmallFire,2515,2525,-1304,-1294
 StonePlantMound1,2467,2473,-1307,-1301
 SmallOutpost,2413,2443,-1199,-1177
 StonePlantMound1,2505,2511,-1397,-1391
+StoneLeafMound,2199,2206,-1154,-1145
+StonePlantMound2,2214,2227,-1241,-1229
+StonePlantMound3,2214,2225,-1042,-1033
+StonePlantMound,2190,2195,-1251,-1246
+RLCraft_DecentZombie,2102,2102,-1331,-1331
+RLCraft_UndergroundRuin3,2100,2108,-1334,-1326
+P_WitchDungeon,2040,2057,-1426,-1392
+StonePlantMound2,2253,2265,-1246,-1233
+DinosaurSkull,2268,2287,-1278,-1267
+StoneBoulder,2296,2305,-1185,-1176
+DinosaurSkeleton,2303,2312,-1207,-1161
+ShrineSmallAir,2323,2331,-1204,-1196
+StonePlantMound,2362,2367,-1186,-1181
