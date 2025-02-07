@@ -39,3 +39,4 @@ StonePlantMound2,2023,2036,-1014,-1002
 DinosaurSkeleton,1891,1900,-811,-765
 StonePlantMound3,1804,1815,-832,-823
 ShrineSmallAir,1832,1840,-810,-802
+P_WitchDungeon,1663,1697,-833,-816

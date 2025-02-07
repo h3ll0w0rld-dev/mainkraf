@@ -30,3 +30,6 @@ VillageWoodMill,1702,1718,-1183,-1170
 RLCraft_SmallUndergroundSkeleton,2016,2024,-1036,-1028
 StonePlantMound1,2033,2039,-1073,-1067
 StonePlantMound4,1977,1984,-1196,-1189
+SmallWoodenCottage1,1828,1839,-1258,-1252
+StoneLeafMound,1995,2002,-1253,-1244
+StonePlantMound3,1671,1682,-1253,-1244
