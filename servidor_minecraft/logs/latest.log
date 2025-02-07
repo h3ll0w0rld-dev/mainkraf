@@ -5755,3 +5755,12 @@ Terrain features that depend on these won't work correctly.
 [00:43:26] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
 [00:43:26] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
 [00:46:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc died from dehydration
+[00:53:56] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[00:53:56] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[00:57:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: luxvo lost connection: Disconnected
+[00:57:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: luxvo left the game
+[00:59:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was shot by Skeleton
+[01:00:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was shot by Skeleton
+[01:00:38] [Thread-38/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 790695c9-e767-39ee-9f7e-5eeece8b43e1.
+[01:01:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was shot by Skeleton
+[01:01:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was shot by Skeleton
