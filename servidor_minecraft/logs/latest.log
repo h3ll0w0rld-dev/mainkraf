@@ -5919,3 +5919,11 @@ Terrain features that depend on these won't work correctly.
 [20:13:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was shot by Skeleton
 [20:13:47] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
 [20:13:47] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[20:14:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Zombie
+[20:14:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD died to water while wearing an Ender Queen's Crown
+[20:16:02] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[20:16:02] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[20:17:31] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[20:17:31] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[20:21:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was pummeled by Jengu  Lvl 2
+[20:21:22] [Thread-111/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 790695c9-e767-39ee-9f7e-5eeece8b43e1.
