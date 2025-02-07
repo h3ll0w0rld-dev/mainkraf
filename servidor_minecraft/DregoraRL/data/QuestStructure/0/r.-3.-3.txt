@@ -1,2 +1,7 @@
 DinosaurSkeleton,-2041,-2032,-1990,-1944
 MeteorSite,-2012,-1997,-1703,-1673
+RLCraft_DecentWitch,-1590,-1590,-2019,-2019
+RLCraft_UndergroundRuin2,-1595,-1585,-2024,-2017
+RLCraft_DecentCaveSpider,-1621,-1621,-1987,-1987
+RLCraft_UndergroundRuin3,-1626,-1618,-1993,-1985
+DesertHut,-1634,-1624,-1880,-1871

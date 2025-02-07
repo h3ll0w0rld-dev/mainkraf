@@ -8,3 +8,5 @@ RLCraft_UndergroundRuin2,-1930,-1920,-2256,-2249
 DinosaurSkull,-2038,-2019,-2438,-2427
 RLCraft_DecentZombie,-1962,-1962,-2217,-2217
 RLCraft_UndergroundRuin3,-1967,-1959,-2223,-2215
+UndergroundCultChamber,-1568,-1536,-2146,-2104
+SmallClockworkSite,-1625,-1603,-2147,-2128

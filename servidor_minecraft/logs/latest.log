@@ -5882,3 +5882,40 @@ Terrain features that depend on these won't work correctly.
 [19:50:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Raidra  Lvl 2
 [19:51:16] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
 [19:51:16] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[19:52:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was pummeled by Keppel Jengu  Lvl 2
+[19:55:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was pummeled by Jengu  Lvl 2
+[19:55:39] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2177ms behind, skipping 43 tick(s)
+[19:55:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Tomrc moved too quickly! 3.5214873967420317,-0.2467999935150118,9.391809113444651
+[19:55:47] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ -1432 | -1944 ], underground: false
+[19:55:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Teleported Tomrc to SolgaleoHD]
+[19:55:59] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[19:55:59] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[19:57:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set Tomrc's spawn point to (-5252, 64, -3373)]
+[19:58:02] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[19:58:02] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[19:59:32] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[19:59:32] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[20:00:17] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[20:00:17] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[20:00:24] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[20:01:02] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[20:01:02] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[20:02:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc withered away
+[20:04:02] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[20:04:02] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[20:05:31] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[20:05:31] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[20:05:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was shot by Skeleton
+[20:06:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD was slain by Zombie
+[20:06:18] [Thread-100/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 49a999d0-32a7-3c2c-9584-03ae671433d2.
+[20:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Enderman
+[20:08:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was shot by Skeleton
+[20:09:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD was slain by Zombie
+[20:09:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Zombie
+[20:11:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD was slain by Zombie
+[20:11:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Creative Mode]
+[20:12:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was shot by Skeleton
+[20:13:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Survival Mode]
+[20:13:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was shot by Skeleton
+[20:13:47] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[20:13:47] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
