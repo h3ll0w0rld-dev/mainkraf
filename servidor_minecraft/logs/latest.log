@@ -5783,3 +5783,13 @@ Terrain features that depend on these won't work correctly.
 [18:44:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: luxvo was slain by Unburied
 [18:44:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: luxvo lost connection: Disconnected
 [18:44:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: luxvo left the game
+[18:48:45] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@174f0d06
+[18:49:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was pummeled by Jengu  Lvl 2
+[18:49:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD was pummeled by Jengu  Lvl 2
+[18:49:38] [Thread-65/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 49a999d0-32a7-3c2c-9584-03ae671433d2.
+[18:53:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Geonach
+[18:53:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Grue
+[18:54:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD was slain by Grue
+[18:54:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Grue
+[18:54:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved wrongly!
+[18:55:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD was slain by Grue

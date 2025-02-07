@@ -5185,13 +5185,28 @@
     "307:10": {
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
+          "completeUsers:9": {
+            "0:8": "790695c9-e767-39ee-9f7e-5eeece8b43e1"
+          },
           "taskID:8": "bq_standard:retrieval",
           "index:3": 0,
-          "userProgress:9": {}
+          "userProgress:9": {
+            "0:10": {
+              "uuid:8": "790695c9-e767-39ee-9f7e-5eeece8b43e1",
+              "data:9": {
+                "0:3": 1
+              }
+            }
+          }
         }
       },
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "uuid:8": "790695c9-e767-39ee-9f7e-5eeece8b43e1",
+          "claimed:1": 0,
+          "timestamp:4": 1738954087435
+        }
+      },
       "questID:3": 307
     },
     "308:10": {
