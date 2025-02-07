@@ -5946,3 +5946,21 @@ Terrain features that depend on these won't work correctly.
 [20:35:32] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
 [20:36:17] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
 [20:36:17] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[20:37:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD was pummeled by Argus  Lvl 2
+[20:37:04] [Thread-126/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 49a999d0-32a7-3c2c-9584-03ae671433d2.
+[20:38:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD was pummeled by Argus  Lvl 2
+[20:38:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was pummeled by Argus  Lvl 2
+[20:44:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Tomrc lost connection: Disconnected
+[20:44:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc left the game
+[20:44:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD lost connection: Disconnected
+[20:44:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD left the game
+[20:45:16] [Server thread/INFO] [AUW]: Stopping DS...
+[20:45:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:45:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[20:45:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[20:45:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DregoraRL'/overworld
+[20:45:16] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (DregoraRL) to config
+[20:45:16] [Server thread/INFO] [FML]: Unloading dimension 0
+[20:45:16] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:45:16] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[20:45:16] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
