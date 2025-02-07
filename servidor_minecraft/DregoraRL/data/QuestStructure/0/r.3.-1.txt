@@ -44,3 +44,4 @@ SmallWoodenCottage2,1665,1673,-987,-979
 RLCraft_DecentSpider,1659,1659,-723,-723
 RLCraft_UndergroundRuin2,1654,1664,-728,-721
 StonePlantMound,1608,1613,-893,-888
+PeacefulCrypt,1597,1621,-885,-869

@@ -7,3 +7,15 @@ RLCraft_DecentWitch,2500,2500,652,652
 RLCraft_UndergroundRuin2,2495,2502,647,657
 StonePlantMound4,2494,2501,676,683
 VillageHouseRich1,2342,2363,603,621
+StonePlantMound4,2307,2314,606,613
+StonePlantMound4,2278,2285,743,750
+RLCraft_SmallUndergroundSkeleton,2309,2317,524,532
+RLCraft_DecentZombie,2240,2240,556,556
+RLCraft_UndergroundRuin2,2235,2245,551,558
+RLCraft_DecentCaveSpider,2416,2416,750,750
+RLCraft_UndergroundRuin3,2414,2422,747,755
+RLCraft_SmallUndergroundSkeleton,2347,2355,777,785
+SmallAbandonedOutpost,2434,2456,708,738
+P_WitchDungeon,2258,2292,516,533
+P_RuinedHouse,2283,2300,773,798
+MysticalTree1,2392,2405,793,804
