@@ -1,0 +1,7 @@
+UndergroundTreeoid,-538,-512,2794,2817
+DinosaurSkeleton,-551,-505,2629,2638
+MeteorSite,-586,-556,2770,2785
+RLCraft_DecentZombie,-538,-538,2895,2895
+RLCraft_UndergroundRuin2,-543,-533,2890,2897
+DinosaurSkull,-635,-616,2758,2769
+RLCraft_SmallUndergroundSkeleton,-607,-599,2953,2961

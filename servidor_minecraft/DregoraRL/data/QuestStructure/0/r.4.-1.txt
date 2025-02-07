@@ -1,2 +1,16 @@
 StonePlantMound4,2065,2072,-1025,-1018
 StoneBoulder,2238,2247,-1006,-997
+WoodThornBig,2204,2217,-753,-740
+RLCraft_DecentZombie,2251,2251,-685,-685
+RLCraft_UndergroundRuin3,2248,2256,-691,-683
+SmallFortRuinsJapanese,2207,2253,-705,-659
+StonePlantMound3,2308,2319,-699,-690
+StonePlantMound2,2355,2367,-746,-733
+RLCraft_SmallUndergroundSkeleton,2385,2393,-643,-635
+StonePlantMound,2403,2408,-787,-782
+SmallWoodenCottage2,2216,2224,-592,-584
+ShrineSmallAir,2421,2429,-702,-694
+RLCraft_BasicWitch,2495,2495,-767,-767
+RLCraft_UndergroundRuin1,2489,2498,-773,-764
+ShrineSmallAir,2516,2524,-732,-724
+ShrineSmallAir,2513,2521,-709,-701

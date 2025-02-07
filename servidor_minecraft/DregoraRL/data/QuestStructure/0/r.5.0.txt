@@ -16,3 +16,7 @@ StonePlantBoulder,2897,2907,-411,-401
 BrickHenge,2621,2637,-177,-161
 RLCraft_SmallUndergroundSkeleton,2897,2905,-426,-418
 StonePlantMound2,2901,2914,-417,-405
+MeteorSite,2677,2692,-505,-475
+StoneBoulder,2583,2592,-464,-455
+RLCraft_PlainsCamp,2546,2592,-491,-452
+RLCraft_BasicWitch,2775,2775,-511,-511

@@ -1,0 +1,7 @@
+DinosaurSkeleton,-1975,-1929,-204,-195
+RLCraft_SmallUndergroundSkeleton,-1874,-1866,-187,-179
+RLCraft_SmallUndergroundSkeleton,-1869,-1861,-152,-144
+RLCraft_xKOSMOS42,-1698,-1672,84,113
+StoneBoulder,-1644,-1635,117,126
+BlazeSpawnerCrystal,-1628,-1622,245,251
+RLCraft_SmallUndergroundSkeleton,-1859,-1851,-42,-34

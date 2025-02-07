@@ -1,0 +1,9 @@
+StonePlantMound4,-1693,-1686,1983,1990
+WoodWallRemains,-1746,-1738,1998,2026
+RLCraft_DecentCaveSpider,-1706,-1706,1928,1928
+RLCraft_UndergroundRuin2,-1711,-1701,1923,1930
+RLCraft_SmallUndergroundSkeleton,-1732,-1724,1897,1905
+MysticalTree2,-1768,-1758,1921,1931
+SmallWoodenCottage2,-1540,-1532,1973,1981
+StoneBoulder,-1829,-1820,1960,1969
+StoneBoulder,-1542,-1533,1929,1938

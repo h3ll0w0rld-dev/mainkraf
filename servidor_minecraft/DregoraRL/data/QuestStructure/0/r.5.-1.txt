@@ -1,0 +1,15 @@
+StonePlantMound,2579,2584,-665,-660
+AbandonedWoodTower,2607,2643,-680,-650
+StonePlantBoulder,2604,2614,-704,-694
+RLCraft_DecentWitch,2725,2725,-641,-641
+RLCraft_UndergroundRuin3,2723,2731,-646,-638
+StonePlantMound1,2777,2783,-574,-568
+RLCraft_UndergroundRuin1,2772,2781,-517,-508
+ShrineSmallAir,2825,2833,-557,-549
+P_MayanTemple2,2650,2749,-774,-706
+StonePlantBoulder,2750,2760,-800,-790
+DinosaurSkull,2774,2785,-826,-807
+RLCraft_DecentZombie,2624,2624,-758,-758
+RLCraft_UndergroundRuin3,2622,2630,-763,-755
+RLCraft_DecentCaveSpider,2587,2587,-822,-822
+RLCraft_UndergroundRuin2,2582,2592,-827,-820

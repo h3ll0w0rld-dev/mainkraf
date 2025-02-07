@@ -1,0 +1,9 @@
+DinosaurSkeleton,-459,-450,1271,1317
+UndergroundCrypt,-430,-402,1220,1234
+StonePlantMound4,-381,-374,1195,1202
+MeteorSite,-306,-291,1216,1246
+PeacefulCrypt,-268,-252,1389,1413
+P_WitchDungeon,-276,-259,1198,1232
+RLCraft_DecentCaveSpider,-418,-418,1484,1484
+RLCraft_UndergroundRuin3,-421,-413,1478,1486
+StonePlantMound4,-331,-324,1164,1171

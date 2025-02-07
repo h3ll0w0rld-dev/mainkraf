@@ -5917,3 +5917,217 @@ Terrain features that depend on these won't work correctly.
 [02:56:15] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
 [02:58:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Spectator Mode]
 [02:58:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Survival Mode]
+[03:05:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: luxvo was slain by Golden Geonach
+[03:05:25] [Thread-65/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for f7e1dfd0-a1a2-350b-b7cf-288b6da0835f.
+[03:05:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2066ms behind, skipping 41 tick(s)
+[03:05:31] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[03:05:31] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[03:05:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6420ms behind, skipping 128 tick(s)
+[03:06:05] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:06:05] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:06:25] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[03:06:26] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[03:06:26] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[03:06:26] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[03:06:26] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[03:06:26] [Server thread/INFO] [Meson ASM]: Patch result: true
+[03:06:49] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[03:06:50] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:06:50] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:07:35] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:07:35] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:07:58] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[03:08:06] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2042ms behind, skipping 40 tick(s)
+[03:08:20] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:08:20] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:08:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: luxvo was slain by Jouste
+[03:08:33] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2726ms behind, skipping 54 tick(s)
+[03:09:06] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:09:06] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:09:51] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:09:51] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:10:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD was struck by lightning
+[03:10:21] [Thread-68/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 49a999d0-32a7-3c2c-9584-03ae671433d2.
+[03:10:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2519ms behind, skipping 50 tick(s)
+[03:10:31] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -1368 | 904 ], underground: true
+[03:10:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Teleported SolgaleoHD to Tomrc]
+[03:10:36] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:10:36] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:10:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Spectator Mode]
+[03:11:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Ventoraptor
+[03:11:02] [Thread-70/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 790695c9-e767-39ee-9f7e-5eeece8b43e1.
+[03:11:06] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3709ms behind, skipping 74 tick(s)
+[03:11:26] [Server thread/ERROR] [reccomplex]: Error preparing structure: TemplePyramid1, Cause: Maze generation timed out: MesoMaze
+[03:11:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! 4.092532244274707,-6.628512602928154,-7.346271991032154
+[03:11:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Survival Mode]
+[03:11:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Survival Mode]
+[03:11:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Teleported Tomrc to SolgaleoHD]
+[03:11:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: luxvo was slain by Herma
+[03:11:39] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:11:39] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:11:53] [Server thread/ERROR] [reccomplex]: Error preparing structure: SmallPyramid, Cause: Maze generation timed out: PyramidMaze
+[03:11:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! -3.8755197801774557,0.17542334385819913,9.491946088949817
+[03:11:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Tomrc moved too quickly! -1.9547438961044463,0.12026469237716242,10.001050165552897
+[03:11:54] [pool-9-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[03:11:54] [pool-9-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[7, 0, 4], dest=[6, 0, 4]}=Wall, MazePassage{source=[5, 0, 4], dest=[6, 0, 4]}=Path, MazePassage{source=[6, -1, 4], dest=[6, 0, 4]}=Wall, MazePassage{source=[6, 1, 4], dest=[6, 0, 4]}=Wall]
+[03:11:54] [pool-9-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[03:11:54] [pool-9-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[1, 0, 1], dest=[0, 0, 1]}=Path, MazePassage{source=[0, 0, 0], dest=[0, 0, 1]}=Wall, MazePassage{source=[-1, 0, 1], dest=[0, 0, 1]}=Wall, MazePassage{source=[0, -1, 1], dest=[0, 0, 1]}=Wall, MazePassage{source=[0, 1, 1], dest=[0, 0, 1]}=Wall, MazePassage{source=[0, 0, 2], dest=[0, 0, 1]}=Path]
+[03:11:54] [pool-9-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[03:11:54] [pool-9-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[1, 0, 1], dest=[0, 0, 1]}=Path, MazePassage{source=[0, 0, 0], dest=[0, 0, 1]}=Wall, MazePassage{source=[-1, 0, 1], dest=[0, 0, 1]}=Wall, MazePassage{source=[0, -1, 1], dest=[0, 0, 1]}=Wall, MazePassage{source=[0, 1, 1], dest=[0, 0, 1]}=Wall, MazePassage{source=[0, 0, 2], dest=[0, 0, 1]}=Path]
+[03:11:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 23891ms behind, skipping 477 tick(s)
+[03:12:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Spectator Mode]
+[03:12:30] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:12:30] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:12:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: luxvo was slain by Ptera
+[03:12:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! -10.139522635100093,0.0,-0.8597639328545483
+[03:12:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Survival Mode]
+[03:12:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7006ms behind, skipping 140 tick(s)
+[03:13:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Golden Roc
+[03:13:12] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3243ms behind, skipping 64 tick(s)
+[03:13:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: luxvo was slain by Golden Sutiramu
+[03:13:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: luxvo moved too quickly! -2.100766164407105,-2.02675936152788,-9.727225530932628
+[03:13:40] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:13:40] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:13:59] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 21057ms behind, skipping 421 tick(s)
+[03:14:00] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:14:00] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:14:00] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:14:02] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@237d0625
+[03:14:02] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:14:07] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:14:07] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:14:07] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:14:10] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:14:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Tomrc moved wrongly!
+[03:14:25] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:14:25] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:14:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Spectator Mode]
+[03:14:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: luxvo was slain by Roc
+[03:14:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2704ms behind, skipping 54 tick(s)
+[03:14:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was pummeled by Remobra
+[03:14:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Survival Mode]
+[03:15:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Spectator Mode]
+[03:15:20] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:15:20] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:15:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! -4.457351801349887,0.0,9.029947121272016
+[03:15:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7716ms behind, skipping 154 tick(s)
+[03:15:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! 1.9274003213208744,1.8346612953028796,10.252744145470047
+[03:15:41] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2437ms behind, skipping 48 tick(s)
+[03:15:49] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 2408 | -760 ], underground: true
+[03:15:55] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 153 and chunkZ -51...
+[03:15:55] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": 2493, "y": 0, "z": -724}...
+[03:15:57] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": 2493, "y": 0, "z": -724}.
+[03:15:57] [Server thread/INFO] [roguelike]: Task Dungeon.generate() completed in 2147 milliseconds.
+[03:15:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! 10.827578137035289,0.0,0.4647768954238245
+[03:16:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: luxvo was slain by Roa
+[03:16:08] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 9936ms behind, skipping 198 tick(s)
+[03:16:17] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:16:17] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:16:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Tomrc moved too quickly! -0.7643844694644031,-10.517420355250053,0.014597928151488304
+[03:16:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! 9.198247483176601,1.4704780984955477,-3.7041971712855
+[03:16:18] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -102 and chunkZ 0...
+[03:16:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was doomed to fall by Zephyr
+[03:16:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! 10.83961054145766,0.0,-0.9875532778767138
+[03:16:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: luxvo moved too quickly! 9.676808236887837,-3.0,1.2525837177581423
+[03:16:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! 9.968010166336171,0.0,-2.884172292767744
+[03:16:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: luxvo moved too quickly! 8.082208022360646,-5.145106700651638,3.1377717430072494
+[03:16:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Tomrc moved too quickly! -9.531616199681139,1.2538906881623717,-4.249431488330174
+[03:16:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! 9.37631488348461,0.0,-4.501102855578893
+[03:17:03] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[03:17:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! -6.036824546415119,0.0,-9.145799766032383
+[03:17:14] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[03:17:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Pirate
+[03:17:18] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:17:18] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:17:22] [Server thread/WARN] [net.minecraft.world.storage.loot.functions.SetDamage]: Couldn't set damage of loot item 1xitem.locks.steel_lock_pick@0
+[03:17:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Survival Mode]
+[03:17:35] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:pixelmon.trainer
+[03:17:35] [Server thread/ERROR] [reccomplex]: Error loading entity with ID 'pixelmon.Trainer'
+[03:17:41] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 63008ms behind, skipping 1260 tick(s)
+[03:17:58] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:17:58] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:17:58] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2858ms behind, skipping 57 tick(s)
+[03:18:42] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:18:42] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:18:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Teleported SolgaleoHD to luxvo]
+[03:19:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by ⚠ Runner ⚠
+[03:19:19] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2823ms behind, skipping 56 tick(s)
+[03:19:34] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -120 | -2264 ], underground: false
+[03:19:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was blown up by Surger
+[03:19:43] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:19:43] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:19:52] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 14228ms behind, skipping 284 tick(s)
+[03:20:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Jouste
+[03:20:06] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2038ms behind, skipping 40 tick(s)
+[03:20:16] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:20:16] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:20:16] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[03:20:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Jouste
+[03:20:18] [Server thread/INFO] [infernalmobs]: Infernal Mobs tag mismatch!! Was [%s], now trying to set [%s] 
+
+[03:20:18] [Server thread/INFO] [infernalmobs]: Infernal Mobs tag mismatch!! Was [%s], now trying to set [%s] 
+
+[03:20:18] [Server thread/INFO] [infernalmobs]: Infernal Mobs tag mismatch!! Was [%s], now trying to set [%s] 
+
+[03:20:18] [Server thread/INFO] [infernalmobs]: Infernal Mobs tag mismatch!! Was [%s], now trying to set [%s] 
+
+[03:20:18] [Server thread/INFO] [infernalmobs]: Infernal Mobs tag mismatch!! Was [%s], now trying to set [%s] 
+
+[03:20:19] [Server thread/INFO] [infernalmobs]: Infernal Mobs tag mismatch!! Was [%s], now trying to set [%s] 
+
+[03:20:19] [Server thread/INFO] [infernalmobs]: Infernal Mobs tag mismatch!! Was [%s], now trying to set [%s] 
+
+[03:20:19] [Server thread/INFO] [infernalmobs]: Infernal Mobs tag mismatch!! Was [%s], now trying to set [%s] 
+
+[03:20:19] [Server thread/INFO] [infernalmobs]: Infernal Mobs tag mismatch!! Was [%s], now trying to set [%s] 
+
+[03:20:19] [Server thread/INFO] [infernalmobs]: Infernal Mobs tag mismatch!! Was [%s], now trying to set [%s] 
+
+[03:20:39] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 18937ms behind, skipping 378 tick(s)
+[03:20:42] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:20:43] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:20:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was shot by Stymphalian Bird
+[03:21:01] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2695ms behind, skipping 53 tick(s)
+[03:21:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Tomrc moved too quickly! 5.2366141476259145,-4.669488436538046,7.569795051460005
+[03:22:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Tomrc lost connection: Disconnected
+[03:22:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc left the game
+[03:22:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD lost connection: Disconnected
+[03:22:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD left the game
+[03:22:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: luxvo lost connection: Disconnected
+[03:22:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: luxvo left the game
+[03:22:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Tomrc moved too quickly! -0.5832976446893099,-10.380805211881608,3.3492520352715474
+[03:22:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: luxvo moved too quickly! -9.557485395072717,-1.7421415724677303,-3.0322532353134193
+[03:22:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 55203ms behind, skipping 1104 tick(s)
+[03:22:17] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[03:22:17] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 204 mods : levelup2@${version},friendlyendermite@1.0,dregorarl@2.5,disenchanter@1.8,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,fishingmadebetter@2.2.6,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,forgelin@1.8.4,llibrary@1.7.20,normalasm@5.24,snowrealmagic@0.7.1,bq_msi@1.0.9,dshuds@3.6.0.0,openterraingenerator@v9.5-R2,biomesoplenty@7.0.1.2445,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.6,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,resourceloader@1.5.3,lycanitesmobs@2.0.8.10 - MC 1.12.2,spark@1.11.2,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,otgcore@1.12.2-v9.5-R2,forgottenitems@1.2.1,FML@8.0.99.99,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.3,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,eaglemixins@1.0.3,kiwi@0.5.3.32,cd4017be_lib@6.5.1,ctgui@1.0.0,dynamictreesbop@1.12.2-9999.9999.9999z,rltweaker@0.6.8,coralreef@2.0,renderlib@1.3.5,potiondescriptions@1.2.4,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,jei@4.16.1.1012,bnbgaminglib@2.17.6,attributefix@1.0.12,pigstep@1.12,simpledifficulty@0.3.9,mujmajnkraftsbettersurvival@1.5.4,framevoidpatch@1.0.0,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,inventorytweaks@1.64+dev.151.822d839,bettercombatmod@2.2.4,xat@0.32.5,iceandfire@2.0.7,crafttweaker@4.1.20,forge@14.23.5.2860,playerbosses@1.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,minecraft@1.12.2,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,tschipplib@1.1.6,somanyenchantments@0.5.5,contentcreator@1.3.6-2,rustic@1.1.7,fermiumbooter@1.1.1,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,ctintegration@1.8.0,mantle@1.12-1.3.3.55,loottweaker@0.3.1,tnt_utilities@1.2.3,autoreglib@1.3-32,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.4.3,anvilpatch@1.1.1,srparasites@1.9.21,spawnercontrol@1.6.3b,shieldbreak@1.1.3,antiqueatlasoverlay@1.2,aquaculture@1.6.8,collisiondamage@1.2.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6,wolfarmor@3.8.1+alpha.1,grapplemod@1.12.2-v12.3,foodexpansion@1.3,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,dynamictreesquark@1.12.2-1.0.6,incontrol@3.9.18,multimine@1.6.2,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,srpmultiplier@2.0.9,bettertabs@1.0.4,familiarfauna@1.0.11,underneath@1.6,librarianliblate@4.22,carryon@1.12.3,loadingscreens@0.3.1,bq_standard@3.4.173,fbp@2.4.1,konkrete@1.6.1,mcwbridges@1.0.6,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,compatskills@1.12.2-1.17.0,helpfixer@1.12.1-1.5.18,bountiful@2.2.3,blockoverlayfix@1.0.0,roguelike@2.4.6,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,spartanfire@1.3.2,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,editableedibles@1.3.1,spartanweaponry@1.6.0,materialtweaker@1.1.1,epicsiegemod@13.167,bhmenu@2.0,dldungeonsjbg@1.14.12,crafttweakerutils@0.7,advanced-fishing@1.3.3,reachfix@1.0.10,librarianlib@4.22,xpfromharvest@1.2.0,googlyeyes@7.1.1,callablehorses@1.1.1,ivtoolkit@1.3.3-1.12,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,artifacts@1.1.2,tumbleweed@1.12-0.4.7,surge@2.0.79,foamfixcore@7.7.4,realistictorches@2.1.2,rlmixins@1.3.16,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,antiquecities@1.0,firstaid@1.6.22,mod_lavacow@1.4.2,portaldupebegone@1.0.0,wearablebackpacks@3.2.6,orelib@3.6.0.1,spartandefiled@1.12.2-1.2,variedcommodities@1.12.2,lagbgonrevived@1.1.0,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,bloodmoon@1.5.3,quark@r1.6-179,legendarytooltips@1.1.9,spartanshields@1.5.5,bqtweaker@1.3.5,reskillable@1.12.2-1.13.0,fancymenu@2.14.9,dimstack@0.1.9,foamfix@@VERSION@,tnt_utilities_core@1.2.3,soundfilters@0.12.1_for_1.12,betterfoliage@2.4.2
+[03:22:17] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[03:22:17] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 204 mods : levelup2@${version},friendlyendermite@1.0,dregorarl@2.5,disenchanter@1.8,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,fishingmadebetter@2.2.6,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,forgelin@1.8.4,llibrary@1.7.20,normalasm@5.24,snowrealmagic@0.7.1,bq_msi@1.0.9,dshuds@3.6.0.0,openterraingenerator@v9.5-R2,biomesoplenty@7.0.1.2445,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.6,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,resourceloader@1.5.3,lycanitesmobs@2.0.8.10 - MC 1.12.2,spark@1.11.2,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,otgcore@1.12.2-v9.5-R2,forgottenitems@1.2.1,FML@8.0.99.99,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.3,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,eaglemixins@1.0.3,kiwi@0.5.3.32,cd4017be_lib@6.5.1,ctgui@1.0.0,dynamictreesbop@1.12.2-9999.9999.9999z,rltweaker@0.6.8,coralreef@2.0,renderlib@1.3.5,potiondescriptions@1.2.4,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,jei@4.16.1.1012,bnbgaminglib@2.17.6,attributefix@1.0.12,pigstep@1.12,simpledifficulty@0.3.9,mujmajnkraftsbettersurvival@1.5.4,framevoidpatch@1.0.0,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,inventorytweaks@1.64+dev.151.822d839,bettercombatmod@2.2.4,xat@0.32.5,iceandfire@2.0.7,crafttweaker@4.1.20,forge@14.23.5.2860,playerbosses@1.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,minecraft@1.12.2,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,tschipplib@1.1.6,somanyenchantments@0.5.5,contentcreator@1.3.6-2,rustic@1.1.7,fermiumbooter@1.1.1,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,ctintegration@1.8.0,mantle@1.12-1.3.3.55,loottweaker@0.3.1,tnt_utilities@1.2.3,autoreglib@1.3-32,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.4.3,anvilpatch@1.1.1,srparasites@1.9.21,spawnercontrol@1.6.3b,shieldbreak@1.1.3,antiqueatlasoverlay@1.2,aquaculture@1.6.8,collisiondamage@1.2.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6,wolfarmor@3.8.1+alpha.1,grapplemod@1.12.2-v12.3,foodexpansion@1.3,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,dynamictreesquark@1.12.2-1.0.6,incontrol@3.9.18,multimine@1.6.2,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,srpmultiplier@2.0.9,bettertabs@1.0.4,familiarfauna@1.0.11,underneath@1.6,librarianliblate@4.22,carryon@1.12.3,loadingscreens@0.3.1,bq_standard@3.4.173,fbp@2.4.1,konkrete@1.6.1,mcwbridges@1.0.6,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,compatskills@1.12.2-1.17.0,helpfixer@1.12.1-1.5.18,bountiful@2.2.3,blockoverlayfix@1.0.0,roguelike@2.4.6,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,spartanfire@1.3.2,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,editableedibles@1.3.1,spartanweaponry@1.6.0,materialtweaker@1.1.1,epicsiegemod@13.167,bhmenu@2.0,dldungeonsjbg@1.14.12,crafttweakerutils@0.7,advanced-fishing@1.3.3,reachfix@1.0.10,librarianlib@4.22,xpfromharvest@1.2.0,googlyeyes@7.1.1,callablehorses@1.1.1,ivtoolkit@1.3.3-1.12,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,artifacts@1.1.2,tumbleweed@1.12-0.4.7,surge@2.0.79,foamfixcore@7.7.4,realistictorches@2.1.2,rlmixins@1.3.16,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,antiquecities@1.0,firstaid@1.6.22,mod_lavacow@1.4.2,portaldupebegone@1.0.0,wearablebackpacks@3.2.6,orelib@3.6.0.1,spartandefiled@1.12.2-1.2,variedcommodities@1.12.2,lagbgonrevived@1.1.0,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,bloodmoon@1.5.3,quark@r1.6-179,legendarytooltips@1.1.9,spartanshields@1.5.5,bqtweaker@1.3.5,reskillable@1.12.2-1.13.0,fancymenu@2.14.9,dimstack@0.1.9,foamfix@@VERSION@,tnt_utilities_core@1.2.3,soundfilters@0.12.1_for_1.12,betterfoliage@2.4.2
+[03:22:17] [Netty Epoll Server IO #3/INFO] [dimstack]: Sending dimension stack configuration packet to Tomrc
+[03:22:18] [Netty Epoll Server IO #4/INFO] [dimstack]: Sending dimension stack configuration packet to SolgaleoHD
+[03:22:18] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:22:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Tomrc[/10.144.243.35:63408] logged in with entity id 278553 at (-1657.5575143723363, 66.48863879788107, 2071.576394312849)
+[03:22:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc joined the game
+[03:22:18] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Tomrc
+[03:22:18] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: Tomrc
+[03:22:18] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: Tomrc
+[03:22:18] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Tomrc
+[03:22:18] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Tomrc
+[03:22:18] [Server thread/INFO] [XAT]: Syncing Config to Tomrc
+[03:22:20] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:22:20] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SolgaleoHD[/10.144.70.203:18444] logged in with entity id 278554 at (-1687.5148333322431, 95.23152379758702, 94.54319199396376)
+[03:22:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD joined the game
+[03:22:20] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player SolgaleoHD
+[03:22:20] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: SolgaleoHD
+[03:22:20] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: SolgaleoHD
+[03:22:20] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player SolgaleoHD
+[03:22:20] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player SolgaleoHD
+[03:22:20] [Server thread/INFO] [XAT]: Syncing Config to SolgaleoHD
+[03:22:22] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:22:22] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Creative Mode]
+[03:22:46] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[03:22:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2074ms behind, skipping 41 tick(s)
+[03:22:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc drowned
+[03:23:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! -9.715703229753217,0.0,-4.85362986037606
+[03:23:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! -1.7152352464911473,-10.112600924189195,0.7385656643696166
+[03:23:16] [Server thread/ERROR] [reccomplex]: Error preparing structure: StoneMazeBig, Cause: Maze generation timed out: StoneMaze

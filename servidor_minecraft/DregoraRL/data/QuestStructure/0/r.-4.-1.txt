@@ -1,2 +1,5 @@
 RLCraft_SmallUndergroundSkeleton,-2217,-2209,-965,-957
 RLCraft_SmallUndergroundSkeleton,-2489,-2481,-991,-983
+RLCraft_DecentCaveSpider,-2281,-2281,-601,-601
+RLCraft_UndergroundRuin2,-2286,-2279,-606,-596
+RLCraft_WilySmile,-2422,-2407,-627,-612

@@ -1,0 +1,2 @@
+VillageTriplets,-2819,-2805,167,181
+P_Village2Story,-2830,-2817,189,195

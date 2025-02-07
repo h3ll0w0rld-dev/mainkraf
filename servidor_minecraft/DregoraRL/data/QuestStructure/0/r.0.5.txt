@@ -7,3 +7,10 @@ ShrineSmallFire,57,67,2755,2765
 FallenPalmTree,126,136,2653,2657
 RLCraft_DecentWitch,41,41,2790,2790
 RLCraft_UndergroundRuin2,36,46,2788,2795
+DesertHut,-354,-344,2857,2866
+RLCraft_DecentSkeleton,-506,-506,2603,2603
+RLCraft_UndergroundRuin2,-511,-501,2598,2605
+RLCraft_BasicWitch,-445,-445,2566,2566
+RLCraft_UndergroundRuin1,-448,-439,2563,2572
+RLCraft_BasicZombie,-399,-399,2956,2956
+RLCraft_UndergroundRuin1,-405,-396,2953,2962

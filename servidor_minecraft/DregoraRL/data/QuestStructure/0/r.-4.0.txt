@@ -1,0 +1,7 @@
+FallenPalmTree,-2323,-2319,-249,-239
+RLCraft_SmallUndergroundSkeleton,-2153,-2145,-300,-292
+SmallClockworkSite,-2275,-2253,-169,-150
+RLCraft_BasicZombie,-2064,-2064,-199,-199
+RLCraft_UndergroundRuin1,-2067,-2058,-205,-196
+RLCraft_DecentZombie,-2177,-2177,-13,-13
+RLCraft_UndergroundRuin3,-2182,-2174,-15,-7
