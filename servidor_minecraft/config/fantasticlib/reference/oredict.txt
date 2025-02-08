@@ -164,9 +164,9 @@ listAllfishraw
 listAllfishcooked
 cropSeaweed
 mushroomAny
-tallow
 buttonWood
 gemEnderBiotite
+tallow
 stoneBasalt
 stoneMarble
 stoneLimestone
@@ -365,8 +365,6 @@ ingotBronze
 ingotSteel
 ingotDemonic
 ingotMithril
-stonePolished
-plankStained
 stoneBasaltPolished
 stoneMarblePolished
 stoneLimestonePolished
@@ -376,6 +374,8 @@ stoneBrimstonePolished
 stonePermafrostPolished
 blockPrismarineElderBrick
 blockPrismarineElderDark
+stonePolished
+plankStained
 trapdoorWood
 bookshelf
 bookshelfOak
