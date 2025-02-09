@@ -5720,3 +5720,16 @@ Terrain features that depend on these won't work correctly.
 [03:30:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was shot by Skeleton
 [03:31:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was shot by Skeleton
 [03:31:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was shot by Skeleton
+[04:07:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was shot by Skeleton
+[04:07:28] [Thread-43/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 790695c9-e767-39ee-9f7e-5eeece8b43e1.
+[04:08:32] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[04:08:32] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[04:12:17] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[04:12:17] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[04:12:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Teleported SolgaleoHD to Tomrc]
+[04:13:02] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[04:13:02] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[04:16:23] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[04:16:23] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (0 tiles)
+[04:16:23] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player SolgaleoHD
+[04:16:47] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
