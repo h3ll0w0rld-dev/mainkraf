@@ -2,3 +2,4 @@ RLCraft_DecentWitch,-5222,-5222,-3636,-3636
 RLCraft_UndergroundRuin3,-5224,-5216,-3639,-3631
 RLCraft_BasicSpider,-5446,-5446,-3586,-3586
 RLCraft_UndergroundRuin1,-5452,-5443,-3589,-3580
+ShrineSmallWater,-5379,-5371,-3718,-3710

@@ -5661,3 +5661,16 @@ Terrain features that depend on these won't work correctly.
 [02:53:32] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
 [02:53:32] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
 [02:54:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD fell from a high place
+[02:57:43] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[02:57:43] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[02:57:43] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[02:57:43] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[02:57:43] [Server thread/INFO] [Meson ASM]: Patch result: true
+[03:00:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Calpod  Lvl 2
+[03:02:49] [Server thread/INFO] [RLTweakerASM]: Patch exists for net.minecraftforge.items.VanillaInventoryCodeHooks
+[03:02:49] [Server thread/INFO] [RLTweakerASM]: Writing class net.minecraftforge.items.VanillaInventoryCodeHooks with flags MAXS
+[03:03:17] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:03:17] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:03:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD was shot by Skeleton
+[03:04:02] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[03:04:02] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
