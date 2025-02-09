@@ -1,0 +1,8 @@
+RLCraft_UndergroundFarm,-5519,-5476,-3001,-2959
+ShrineSmallWater,-5414,-5406,-2959,-2951
+RLCraft_DecentWitch,-5534,-5534,-2855,-2855
+RLCraft_UndergroundRuin3,-5539,-5531,-2857,-2849
+RLCraft_SmallUndergroundSkeleton,-5451,-5443,-2715,-2707
+UndergroundTreeoid,-5342,-5319,-2702,-2676
+RLCraft_UndergroundFarm,-5166,-5123,-2706,-2664
+RLCraft_LargeUndergroundTown,-5516,-5379,-2617,-2504

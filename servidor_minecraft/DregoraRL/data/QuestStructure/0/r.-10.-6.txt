@@ -219,3 +219,6 @@ StoneMazePath,-5372,-5370,-3283,-3281
 StoneMazePath,-5369,-5367,-3283,-3281
 StoneMazePath,-5366,-5364,-3271,-3269
 StoneMazeHuge,-5384,-5325,-3322,-3263
+BlazeSpawnerCrystal,-5488,-5482,-3520,-3514
+StonePlantMound2,-5509,-5496,-3293,-3281
+BlazeSpawnerCrystal,-5557,-5551,-3179,-3173
