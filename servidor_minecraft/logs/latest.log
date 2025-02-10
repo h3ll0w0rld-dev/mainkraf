@@ -5671,3 +5671,10 @@ Terrain features that depend on these won't work correctly.
 [05:50:38] [Server thread/INFO] [Meson ASM]: Located method, patching...
 [05:50:38] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
 [05:50:38] [Server thread/INFO] [Meson ASM]: Patch result: true
+[05:58:53] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-5198, y=9, z=-3076}
+[05:58:53] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-5198, y=9, z=-3076}
+[05:58:53] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-5239, y=73, z=-3387}
+[05:58:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! -41.04012002528543,63.76847620241299,-310.96433961162984
+[06:02:00] [Server thread/INFO] [antiqueatlas]: Created new marker #7"gui.antiqueatlas.marker.tomb Tomrc"@(-5286, -3378)
+[06:02:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Geonach  Lvl 2
+[06:02:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
