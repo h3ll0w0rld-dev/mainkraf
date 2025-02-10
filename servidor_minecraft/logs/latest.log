@@ -5664,3 +5664,6 @@ Terrain features that depend on these won't work correctly.
 [04:47:02] [Server thread/INFO] [Meson ASM]: Located method, patching...
 [04:47:02] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
 [04:47:02] [Server thread/INFO] [Meson ASM]: Patch result: true
+[04:52:16] [Server thread/INFO] [antiqueatlas]: Created new marker #5"dungueon subterranea"@(-5332, -3476)
+[04:52:44] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[04:57:36] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player SolgaleoHD)
