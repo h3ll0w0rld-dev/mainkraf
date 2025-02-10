@@ -5678,3 +5678,5 @@ Terrain features that depend on these won't work correctly.
 [06:02:00] [Server thread/INFO] [antiqueatlas]: Created new marker #7"gui.antiqueatlas.marker.tomb Tomrc"@(-5286, -3378)
 [06:02:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Geonach  Lvl 2
 [06:02:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[06:07:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Tomrc lost connection: Disconnected
+[06:07:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc left the game
