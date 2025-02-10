@@ -365,6 +365,8 @@ ingotBronze
 ingotSteel
 ingotDemonic
 ingotMithril
+stonePolished
+plankStained
 stoneBasaltPolished
 stoneMarblePolished
 stoneLimestonePolished
@@ -374,8 +376,6 @@ stoneBrimstonePolished
 stonePermafrostPolished
 blockPrismarineElderBrick
 blockPrismarineElderDark
-stonePolished
-plankStained
 trapdoorWood
 bookshelf
 bookshelfOak
