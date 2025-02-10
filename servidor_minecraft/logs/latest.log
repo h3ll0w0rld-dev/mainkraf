@@ -5667,3 +5667,11 @@ Terrain features that depend on these won't work correctly.
 [04:52:16] [Server thread/INFO] [antiqueatlas]: Created new marker #5"dungueon subterranea"@(-5332, -3476)
 [04:52:44] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [04:57:36] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player SolgaleoHD)
+[05:00:30] [Server thread/INFO] [RLTweakerASM]: Patch exists for net.minecraftforge.items.VanillaInventoryCodeHooks
+[05:00:30] [Server thread/INFO] [RLTweakerASM]: Writing class net.minecraftforge.items.VanillaInventoryCodeHooks with flags MAXS
+[05:01:44] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[05:01:44] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[05:02:29] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[05:02:29] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[05:03:14] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[05:03:14] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
