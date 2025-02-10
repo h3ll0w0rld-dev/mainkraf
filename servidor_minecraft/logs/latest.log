@@ -5680,3 +5680,32 @@ Terrain features that depend on these won't work correctly.
 [06:02:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [06:07:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Tomrc lost connection: Disconnected
 [06:07:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc left the game
+[06:26:36] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[06:26:36] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[06:27:21] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[06:27:21] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[06:27:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! 8.660620663951704,10.8740234375,2.8490298130141127
+[06:27:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! 7.947952129265104,10.472254305137952,2.8958732805372165
+[06:27:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! 7.58306104523308,10.26204039240669,2.90734677178898
+[06:27:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! 7.560204674294255,9.660844646472981,2.9152406519974647
+[06:27:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! 7.43678896730853,8.993304093939102,2.921619869292954
+[06:27:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! 7.31785603579192,8.770345052083329,2.826817412843411
+[06:27:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! 7.010253639630719,8.770345052083329,2.84702146837526
+[06:27:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved wrongly!
+[06:27:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD moved too quickly! 6.964904397404098,9.570345004399613,3.144795126351255
+[06:28:06] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[06:28:06] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[06:28:51] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[06:28:51] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[06:29:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD lost connection: Disconnected
+[06:29:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD left the game
+[06:29:25] [Server thread/INFO] [AUW]: Stopping DS...
+[06:29:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[06:29:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[06:29:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[06:29:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DregoraRL'/overworld
+[06:29:25] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (DregoraRL) to config
+[06:29:25] [Server thread/INFO] [FML]: Unloading dimension 0
+[06:29:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[06:29:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[06:29:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
