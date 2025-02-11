@@ -1,1 +1,3 @@
 P_LargeShip,-412,-394,852,912
+RLCraft_BasicSpider,167,167,725,725
+RLCraft_UndergroundRuin1,164,173,722,731

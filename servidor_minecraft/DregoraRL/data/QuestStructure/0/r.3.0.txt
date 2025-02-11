@@ -17,3 +17,7 @@ StonePlantMound3,1939,1948,473,484
 StoneLeafMound,1658,1665,364,373
 ShrineSmallAir,1970,1978,305,313
 RLCraft_SmallUndergroundSkeleton,2028,2036,-474,-466
+SmallOutpost,2002,2032,-355,-333
+DinosaurSkeleton,1846,1892,-433,-424
+WoodThorn,1993,2004,-305,-294
+StonePlantMound4,1849,1856,-371,-364
