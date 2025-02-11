@@ -13531,3 +13531,14 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:writev(..) failed: Broke
 [03:57:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was blown up by Creeper
 [03:57:41] [Thread-25/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 790695c9-e767-39ee-9f7e-5eeece8b43e1.
 [03:57:54] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[04:04:39] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[04:04:39] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[04:05:24] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[04:05:24] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[04:06:02] [Server thread/INFO] [RLTweakerASM]: Patch exists for net.minecraftforge.items.VanillaInventoryCodeHooks
+[04:06:02] [Server thread/INFO] [RLTweakerASM]: Writing class net.minecraftforge.items.VanillaInventoryCodeHooks with flags MAXS
+[04:06:09] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[04:06:09] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[04:07:16] [Server thread/INFO] [antiqueatlas]: Created new marker #9"gui.antiqueatlas.marker.tomb Tomrc"@(-5235, -3384)
+[04:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc starved to death
+[04:07:39] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
