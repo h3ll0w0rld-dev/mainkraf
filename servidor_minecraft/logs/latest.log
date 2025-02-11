@@ -5627,3 +5627,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:skeleton_skull'
 [03:17:17] [Finalizer/WARN] [FermiumASM]: Clearing NormalStringPool 1
 [03:17:17] [Finalizer/WARN] [FermiumASM]: Clearing NormalStringPool 1
 [03:17:17] [Finalizer/WARN] [FermiumASM]: Clearing NormalStringPool 1
+[03:33:27] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[03:33:27] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[03:33:27] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[03:33:27] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[03:33:27] [Server thread/INFO] [Meson ASM]: Patch result: true
+[03:34:04] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[03:34:04] [Server thread/INFO] [RB-Transformer]:  - <init>
+[03:34:04] [Server thread/INFO] [RB-Transformer]:  - Done
+[03:34:04] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[03:34:04] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[03:34:04] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
