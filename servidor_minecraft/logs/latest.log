@@ -13527,3 +13527,7 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:writev(..) failed: Broke
 [03:41:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MXTXN123 left the game
 [03:41:24] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
 [03:41:24] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[03:57:37] [Server thread/INFO] [antiqueatlas]: Created new marker #8"gui.antiqueatlas.marker.tomb Tomrc"@(-5277, -3369)
+[03:57:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was blown up by Creeper
+[03:57:41] [Thread-25/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 790695c9-e767-39ee-9f7e-5eeece8b43e1.
+[03:57:54] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
