@@ -1,1 +1,5 @@
 P_DesertTemple,-51,-2,2527,2577
+RLCraft_DecentZombie,148,148,2048,2048
+RLCraft_UndergroundRuin2,143,150,2043,2053
+FallenPalmTree,167,171,2227,2237
+P_DesertTemple,191,241,2227,2276
