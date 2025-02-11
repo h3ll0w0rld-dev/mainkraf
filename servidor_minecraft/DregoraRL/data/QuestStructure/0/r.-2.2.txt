@@ -1,0 +1,2 @@
+BrickHenge,-1414,-1398,1407,1423
+AbandonedWoodTower,-1475,-1445,1423,1459

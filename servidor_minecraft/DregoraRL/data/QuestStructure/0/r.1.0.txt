@@ -176,3 +176,5 @@ StonePlantMound1,894,900,-343,-337
 StonePlantMound1,910,916,-359,-353
 RLCraft_PlainsCamp,814,860,-293,-254
 StonePlantMound2,887,899,-412,-399
+BrickHenge,991,1007,-506,-490
+StonePlantMound3,870,881,-514,-505

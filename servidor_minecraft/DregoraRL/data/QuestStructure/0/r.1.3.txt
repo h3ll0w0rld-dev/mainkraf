@@ -1,0 +1,2 @@
+RLCraft_SmallUndergroundSkeleton,623,631,1623,1631
+CuboneSkull,513,574,1555,1613

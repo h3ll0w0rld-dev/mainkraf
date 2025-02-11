@@ -1,0 +1,6 @@
+RLCraft_SmallUndergroundSkeleton,1466,1474,1014,1022
+SmallWoodenCottage2,1364,1372,954,962
+RLCraft_DecentZombie,1256,1256,1011,1011
+RLCraft_UndergroundRuin3,1251,1259,1009,1017
+P_Crater,1231,1314,879,955
+StonePlantMound,1473,1478,912,917

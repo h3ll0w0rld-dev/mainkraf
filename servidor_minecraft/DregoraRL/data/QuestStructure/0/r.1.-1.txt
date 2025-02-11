@@ -1,1 +1,6 @@
 StonePlantMound1,638,644,-538,-532
+StoneBoulder,889,898,-582,-573
+StoneBoulder,868,877,-553,-544
+StonePlantBoulder,857,867,-556,-546
+StonePlantMound1,971,977,-673,-667
+StonePlantMound,798,803,-551,-546

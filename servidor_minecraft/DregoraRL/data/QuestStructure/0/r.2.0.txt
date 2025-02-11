@@ -29,3 +29,10 @@ RLCraft_UndergroundRuin2,1410,1417,84,94
 StoneBoulder,1132,1141,87,96
 RLCraft_BasicWitch,1120,1120,115,115
 RLCraft_UndergroundRuin1,1114,1123,109,118
+RLCraft_BasicCaveSpider,1024,1024,-472,-472
+RLCraft_UndergroundRuin1,1021,1030,-478,-469
+MeteorSite,1024,1039,-516,-486
+StonePlantMound1,1092,1098,-514,-508
+StoneLeafMound,1031,1040,-419,-412
+RLCraft_BasicSpider,1101,1101,-457,-457
+RLCraft_UndergroundRuin1,1095,1104,-460,-451

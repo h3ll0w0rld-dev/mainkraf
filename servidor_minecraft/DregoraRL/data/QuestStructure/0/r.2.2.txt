@@ -1,0 +1,7 @@
+SmallAbandonedMine,1284,1309,1077,1092
+StoneBoulder,1366,1375,1180,1189
+StonePlantMound2,1487,1499,1129,1142
+RLCraft_BasicSpider,1224,1224,1061,1061
+RLCraft_UndergroundRuin1,1221,1230,1055,1064
+StonePlantMound4,1483,1490,1202,1209
+P_WitchDungeon,1462,1479,1215,1249
