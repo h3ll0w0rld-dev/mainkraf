@@ -5664,3 +5664,10 @@ Terrain features that depend on these won't work correctly.
 [22:15:27] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [22:15:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie_villager that already exists with UUID e1667321-c6f2-4488-8007-f61b8782b158
 [22:24:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie_villager that already exists with UUID e1667321-c6f2-4488-8007-f61b8782b158
+[22:30:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie_villager that already exists with UUID e1667321-c6f2-4488-8007-f61b8782b158
+[22:33:26] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[22:33:26] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[22:34:11] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[22:34:11] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[22:34:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD lost connection: Disconnected
+[22:34:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD left the game
