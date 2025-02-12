@@ -5682,3 +5682,22 @@ Terrain features that depend on these won't work correctly.
 [23:30:30] [Server thread/INFO] [Meson ASM]: Patch result: true
 [23:34:50] [Server thread/INFO] [Scaling Health]: Blight Cinder  Lvl 3 was killed by Tomrc
 [23:36:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc died from hypothermia
+[23:39:40] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[23:39:40] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[23:39:47] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -5464 | -4184 ], underground: true
+[23:40:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Teleported Tomrc to SolgaleoHD]
+[23:40:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie_villager that already exists with UUID e1667321-c6f2-4488-8007-f61b8782b158
+[23:40:25] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[23:40:25] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[23:41:10] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[23:41:10] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[23:41:55] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[23:41:55] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[23:44:55] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[23:44:55] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[23:45:40] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[23:45:40] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[23:46:25] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[23:46:25] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[23:48:40] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[23:48:40] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.

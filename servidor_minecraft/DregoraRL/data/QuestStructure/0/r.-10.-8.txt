@@ -1,0 +1,9 @@
+RLCraft_BasicSkeleton,-5463,-5463,-4182,-4182
+RLCraft_UndergroundRuin1,-5466,-5457,-4185,-4176
+RLCraft_DecentSpider,-5395,-5395,-4270,-4270
+RLCraft_UndergroundRuin3,-5401,-5393,-4275,-4267
+RLCraft_BasicCaveSpider,-5454,-5454,-4282,-4282
+RLCraft_UndergroundRuin1,-5457,-5448,-4288,-4279
+ShrineSmallAir,-5422,-5414,-4311,-4303
+RLCraft_BasicSkeleton,-5402,-5402,-4351,-4351
+RLCraft_UndergroundRuin1,-5405,-5396,-4357,-4348
