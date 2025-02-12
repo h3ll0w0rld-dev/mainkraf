@@ -5595,3 +5595,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:skeleton_skull'
 [06:12:50] [Server thread/INFO] [FML]: Unloading dimension -1
 [06:12:50] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 3 (Underneath) to config
 [06:12:50] [Server thread/INFO] [FML]: Unloading dimension 3
+[06:43:34] [Finalizer/WARN] [FermiumASM]: Clearing NormalStringPool 1
+[06:43:34] [Finalizer/WARN] [FermiumASM]: Clearing NormalStringPool 1
+[06:43:34] [Finalizer/WARN] [FermiumASM]: Clearing NormalStringPool 1
+[06:43:34] [Finalizer/WARN] [FermiumASM]: Clearing NormalStringPool 1
+[06:43:34] [Finalizer/WARN] [FermiumASM]: Clearing NormalStringPool 1
