@@ -1,3 +1,4 @@
 UndergroundCrypt,-5688,-5674,-3384,-3356
 ShrineSmallWater,-5914,-5906,-3146,-3138
 P_CultIsland,-5938,-5728,-3166,-2996
+Flagship,-5946,-5903,-3350,-3235
