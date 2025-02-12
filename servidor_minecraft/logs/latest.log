@@ -5666,3 +5666,19 @@ Terrain features that depend on these won't work correctly.
 [23:21:53] [Server thread/INFO] [antiqueatlas]: Created new marker #15"gui.antiqueatlas.marker.tomb SolgaleoHD"@(-5441, -3911)
 [23:21:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD drowned whilst trying to escape Skelemate
 [23:22:25] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:25:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie_villager that already exists with UUID e1667321-c6f2-4488-8007-f61b8782b158
+[23:26:11] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[23:26:11] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[23:29:51] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[23:29:51] [Server thread/INFO] [RB-Transformer]:  - <init>
+[23:29:51] [Server thread/INFO] [RB-Transformer]:  - Done
+[23:29:51] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[23:29:51] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[23:29:51] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[23:30:30] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[23:30:30] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[23:30:30] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[23:30:30] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[23:30:30] [Server thread/INFO] [Meson ASM]: Patch result: true
+[23:34:50] [Server thread/INFO] [Scaling Health]: Blight Cinder  Lvl 3 was killed by Tomrc
+[23:36:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc died from hypothermia
