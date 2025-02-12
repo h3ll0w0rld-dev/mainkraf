@@ -5655,3 +5655,12 @@ Terrain features that depend on these won't work correctly.
 [22:11:17] [Server thread/INFO] [Meson ASM]: Patch result: true
 [22:13:11] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
 [22:13:11] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[22:13:56] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[22:13:56] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[22:15:03] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[22:15:03] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (34 tiles)
+[22:15:03] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player SolgaleoHD
+[22:15:03] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player SolgaleoHD
+[22:15:27] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[22:15:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie_villager that already exists with UUID e1667321-c6f2-4488-8007-f61b8782b158
+[22:24:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie_villager that already exists with UUID e1667321-c6f2-4488-8007-f61b8782b158
