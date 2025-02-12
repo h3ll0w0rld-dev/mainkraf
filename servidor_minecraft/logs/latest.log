@@ -5908,3 +5908,30 @@ Terrain features that depend on these won't work correctly.
 [05:33:10] [Server thread/INFO] [XAT]: Syncing Config to SolgaleoHD
 [05:33:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was pummeled by Cinder  Lvl 3
 [05:35:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was blown up by Creeper
+[05:37:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Grue  Lvl 3
+[05:37:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was shot by Skeleton
+[05:38:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD was shot by Skeleton
+[05:38:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Spectator Mode]
+[05:38:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was pummeled by Jengu  Lvl 3
+[05:39:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Survival Mode]
+[05:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Zombie
+[05:40:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was shot by Skeleton
+[05:40:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was shot by Skeleton
+[05:43:33] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[05:43:33] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (0 tiles)
+[05:43:33] [Server thread/INFO] [antiqueatlas]: Sent Atlas #2 data to player SolgaleoHD
+[05:43:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Creative Mode]
+[05:43:47] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[05:43:47] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (34 tiles)
+[05:43:47] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player SolgaleoHD
+[05:43:47] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player SolgaleoHD
+[05:43:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [SolgaleoHD: Set own game mode to Survival Mode]
+[05:43:51] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[05:46:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc was slain by Spectre  Lvl 3
+[05:46:21] [Thread-91/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 790695c9-e767-39ee-9f7e-5eeece8b43e1.
+[05:46:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Tomrc lost connection: Disconnected
+[05:46:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tomrc left the game
+[05:47:36] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[05:47:36] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[05:48:21] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
+[05:48:21] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
