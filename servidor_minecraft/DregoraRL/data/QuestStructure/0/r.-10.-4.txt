@@ -1,1 +1,3 @@
 DinosaurSkull,-5463,-5444,-2540,-2529
+WoodWallRemains,-5340,-5332,-2529,-2501
+BlazeSpawnerCrystal,-5484,-5478,-2487,-2481

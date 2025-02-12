@@ -6,3 +6,9 @@ RLCraft_SmallUndergroundSkeleton,-5451,-5443,-2715,-2707
 UndergroundTreeoid,-5342,-5319,-2702,-2676
 RLCraft_UndergroundFarm,-5166,-5123,-2706,-2664
 RLCraft_LargeUndergroundTown,-5516,-5379,-2617,-2504
+RLCraft_DecentWitch,-5586,-5586,-2900,-2900
+RLCraft_UndergroundRuin2,-5588,-5581,-2905,-2895
+WoodWallRemains,-5590,-5582,-2830,-2802
+P_SwampHouse,-5610,-5580,-2669,-2627
+RLCraft_BasicZombie,-5596,-5596,-2605,-2605
+RLCraft_UndergroundRuin1,-5599,-5590,-2608,-2599
