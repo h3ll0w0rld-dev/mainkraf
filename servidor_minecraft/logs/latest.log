@@ -5701,3 +5701,5 @@ Terrain features that depend on these won't work correctly.
 [23:46:25] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
 [23:48:40] [Server thread/INFO] [rlmixins.RLMixins]: OTG Saving structure and pregenerator data.
 [23:48:40] [Server thread/INFO] [rlmixins.RLMixins]: OTG Structure and pregenerator data saved.
+[23:51:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD lost connection: Disconnected
+[23:51:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD left the game
