@@ -1,0 +1,349 @@
+---- Minecraft Crash Report ----
+// Crash report modified by FermiumASM.
+// FermiumASM deobfuscated this stacktrace using MCP's stable-39 mappings.
+// Ooh. Shiny.
+
+Time: 2025-02-13 22:30:18 UTC
+Description: Exception in server tick loop
+
+net.minecraftforge.fml.common.LoaderExceptionModCrash: Caught exception from Bountiful (bountiful)
+Caused by: java.lang.Exception: 'bountiful/bounties.json' contains one or more invalid bounties. Invalid bounty objectives: [Pickable [Item: entity:lycanitesmobs:abaia, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:abtu, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:afrit, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:aglebemu, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:archvile, Amount: 1..3, Unit Worth: 500, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:argus, Amount: 1..1, Unit Worth: 1000, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:arix, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:astaroth, Amount: 1..2, Unit Worth: 500, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:banshee, Amount: 1..3, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:barghest, Amount: 1..3, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:behemoth, Amount: 1..3, Unit Worth: 500, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:belph, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:calpod, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:cephignis, Amount: 1..3, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:chupacabra, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:cinder, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:clink, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:cockatrice, Amount: 1..1, Unit Worth: 1000, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:conba, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:concapede, Amount: 1..3, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:crusk, Amount: 1..1, Unit Worth: 500, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:cryptkeeper, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:lobber, Amount: 1..1, Unit Worth: 500, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:darkling, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:dawon, Amount: 1..3, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:strider, Amount: 1..3, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:eechetik, Amount: 1..3, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:ent, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:epion, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:erepede, Amount: 1..2, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:ettin, Amount: 1..2, Unit Worth: 400, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:eyewig, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:feradon, Amount: 1..3, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:frostweaver, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:geist, Amount: 1..2, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:geken, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:geonach, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:ghoul, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:gnekk, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:gorgomite, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:grell, Amount: 1..1, Unit Worth: 500, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:grigori, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:grue, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:herma, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:ignibus, Amount: 1..1, Unit Worth: 1000, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:ioray, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:jabberwock, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:jengu, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:joustalpha, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:pinky, Amount: 1..3, Unit Worth: 500, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:khalk, Amount: 1..1, Unit Worth: 1000, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:lacedon, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:tarantula, Amount: 1..3, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:cacodemon, Amount: 1..5, Unit Worth: 400, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:balayang, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:maug, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:morock, Amount: 1..2, Unit Worth: 750, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:beholder, Amount: 1..2, Unit Worth: 400, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:lurker, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:pixen, Amount: 1..3, Unit Worth: 200, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:quetzodracl, Amount: 1..2, Unit Worth: 750, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:raiko, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:reaper, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:reiver, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:remobra, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:roa, Amount: 1..2, Unit Worth: 500, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:roc, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:zephyr, Amount: 1..3, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:salamander, Amount: 1..3, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:serpix, Amount: 1..1, Unit Worth: 500, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:shade, Amount: 1..2, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:shambler, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:skylus, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:spectre, Amount: 1..3, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:spriggan, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:sutiramu, Amount: 1..3, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:sylph, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:thresher, Amount: 1..1, Unit Worth: 1000, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:treant, Amount: 1..1, Unit Worth: 1500, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:tremor, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:triffid, Amount: 1..2, Unit Worth: 400, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:trite, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:troll, Amount: 1..3, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:uvaraptor, Amount: 1..3, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:gorger, Amount: 1..1, Unit Worth: 500, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:vapula, Amount: 1..1, Unit Worth: 400, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:ventoraptor, Amount: 1..3, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:vespid, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:vespidqueen, Amount: 1..1, Unit Worth: 500, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:volcan, Amount: 1..1, Unit Worth: 400, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:vorach, Amount: 1..1, Unit Worth: 800, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:warg, Amount: 1..3, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:wendigo, Amount: 1..1, Unit Worth: 300, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:wildkin, Amount: 1..3, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:wraamon, Amount: 1..5, Unit Worth: 200, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:wraith, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:xaphan, Amount: 1..5, Unit Worth: 200, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:zoataur, Amount: 1..1, Unit Worth: 500, Weight: 10, Stages: []], Pickable [Item: entity:lycanitesmobs:djinn, Amount: 1..5, Unit Worth: 250, Weight: 10, Stages: []], Pickable [Item: lycanitesmobs:conbabutt, Amount: 1..1, Unit Worth: 300, Weight: 15, Stages: []], Pickable [Item: lycanitesmobs:bruchaquill, Amount: 1..1, Unit Worth: 150, Weight: 15, Stages: []], Pickable [Item: lycanitesmobs:ironpaxel, Amount: 1..1, Unit Worth: 100, Weight: 15, Stages: []], Pickable [Item: lycanitesmobs:woodenpaxel, Amount: 1..1, Unit Worth: 50, Weight: 15, Stages: []], Pickable [Item: lycanitesmobs:woodenhilt, Amount: 1..1, Unit Worth: 50, Weight: 15, Stages: []], Pickable [Item: lycanitesmobs:ironhilt, Amount: 1..1, Unit Worth: 100, Weight: 15, Stages: []], Pickable [Item: lycanitesmobs:ironaxehead, Amount: 1..1, Unit Worth: 150, Weight: 15, Stages: []], Pickable [Item: lycanitesmobs:ironpikejoint, Amount: 1..1, Unit Worth: 150, Weight: 15, Stages: []], Pickable [Item: lycanitesmobs:goldscepterhead, Amount: 1..1, Unit Worth: 200, Weight: 15, Stages: []], Pickable [Item: lycanitesmobs:raw_bobeko_meat, Amount: 1..16, Unit Worth: 30, Weight: 30, Stages: []], Pickable [Item: lycanitesmobs:raw_joust_meat, Amount: 1..16, Unit Worth: 30, Weight: 30, Stages: []], Pickable [Item: lycanitesmobs:raw_krake_meat, Amount: 1..16, Unit Worth: 30, Weight: 30, Stages: []], Pickable [Item: lycanitesmobs:raw_yale_meat, Amount: 1..16, Unit Worth: 30, Weight: 30, Stages: []], Pickable [Item: lycanitesmobs:raw_pinky_meat, Amount: 1..16, Unit Worth: 30, Weight: 30, Stages: []], Pickable [Item: lycanitesmobs:raw_aspid_meat, Amount: 1..16, Unit Worth: 30, Weight: 30, Stages: []], Pickable [Item: lycanitesmobs:raw_concapede_meat, Amount: 1..16, Unit Worth: 30, Weight: 30, Stages: []], Pickable [Item: lycanitesmobs:raw_ika_meat, Amount: 1..16, Unit Worth: 30, Weight: 30, Stages: []], Pickable [Item: lycanitesmobs:raw_arisaur_meat, Amount: 1..16, Unit Worth: 30, Weight: 30, Stages: []], Pickable [Item: lycanitesmobs:raw_silex_meat, Amount: 1..16, Unit Worth: 30, Weight: 30, Stages: []], Pickable [Item: lycanitesmobs:raw_maka_meat, Amount: 1..16, Unit Worth: 30, Weight: 30, Stages: []], Pickable [Item: lycanitesmobs:raw_chupacabra_meat, Amount: 1..16, Unit Worth: 30, Weight: 30, Stages: []]]
+    at ejektaflex.bountiful.proxy.CommonProxy.postInit(CommonProxy.kt:97)
+    at ejektaflex.bountiful.Bountiful.postInit(Bountiful.kt:53)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:498)
+    at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+    at sun.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:498)
+    at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+    at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+    at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+    at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+    at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+    at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+    at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+    at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+    at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:498)
+    at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+    at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+    at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+    at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+    at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+    at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+    at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+    at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+    at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754)
+    at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108)
+    at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338)
+    at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:219)
+    at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+    at java.lang.Thread.run(Thread.java:750)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+  Minecraft Version: 1.12.2
+  Operating System: Linux (amd64) version 6.5.0-1025-azure
+  Java Version: 1.8.0_442, Private Build
+  Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+  Memory: 4101069112 bytes (3911 MB) / 5003804672 bytes (4772 MB) up to 7635730432 bytes (7282 MB)
+  JVM Flags: 2 total; -Xms2G -Xmx8G
+  IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+  FML: MCP 9.42 FermiumASM 5.24 Powered by Forge 14.23.5.2860 173 mods loaded, 173 mods active
+       States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+       
+       | State | ID                          | Version                | Source                                                       | Signature                                |
+       |:----- |:--------------------------- |:---------------------- |:------------------------------------------------------------ |:---------------------------------------- |
+       | LCHIJ | minecraft                   | 1.12.2                 | minecraft.jar                                                | None                                     |
+       | LCHIJ | mcp                         | 9.42                   | minecraft.jar                                                | None                                     |
+       | LCHIJ | FML                         | 8.0.99.99              | forge-1.12.2-14.23.5.2860.jar                                | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+       | LCHIJ | forge                       | 14.23.5.2860           | forge-1.12.2-14.23.5.2860.jar                                | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+       | LCHIJ | creativecoredummy           | 1.0.0                  | minecraft.jar                                                | None                                     |
+       | LCHIJ | itemphysic                  | 1.4.0                  | minecraft.jar                                                | None                                     |
+       | LCHIJ | ivtoolkit                   | 1.3.3-1.12             | minecraft.jar                                                | None                                     |
+       | LCHIJ | otgcore                     | 1.12.2-v9.5-R2         | minecraft.jar                                                | None                                     |
+       | LCHIJ | foamfixcore                 | 7.7.4                  | minecraft.jar                                                | None                                     |
+       | LCHIJ | tnt_utilities_core          | 1.2.3                  | minecraft.jar                                                | None                                     |
+       | LCHIJ | fermiumbooter               | 1.1.1                  | `FermiumBooter-1.1.1.jar                                     | None                                     |
+       | LCHIJ | forgeendertech              | 1.12.2-4.5.6.1         | ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar                 | None                                     |
+       | LCHIJ | adhooks                     | 1.12.2-3.3.1.0         | AdHooks-1.12.2-3.3.1.0-build.0626.jar                        | None                                     |
+       | LCHIJ | advanced-fishing            | 1.3.3                  | Advanced-Fishing-1.12.2-1.3.3.jar                            | None                                     |
+       | LCHIJ | aireducer                   | 0.3.0                  | AIReducer-1.12.2-0.3.0.jar                                   | None                                     |
+       | LCHIJ | alcatrazcore                | 1.0.4                  | alcatrazcore-1.0.4.jar                                       | 3c2d6be715971d1ed58a028cdb3fae72987fc934 |
+       | LCHIJ | antiqueatlas                | 4.6.3                  | antiqueatlas-1.12.2-4.6.3.jar                                | None                                     |
+       | LCHIJ | lostcities                  | 2.0.22                 | lostcities-1.12-2.0.22.jar                                   | None                                     |
+       | LCHIJ | antiquecities               | 1.0                    | antiquecities-1.2.1.jar                                      | None                                     |
+       | LCHIJ | anvilpatch                  | 1.1.1                  | anvilpatch-1.1.1.jar                                         | None                                     |
+       | LCHIJ | aquaculture                 | 1.6.8                  | Aquaculture-1.12.2-1.6.8.jar                                 | None                                     |
+       | LCHIJ | carrots                     | 1.0.0b1                | carrotslib-mc1.12.2-1.0.0b1.jar                              | None                                     |
+       | LCHIJ | armorunder                  | 1.0.0                  | armorunder-mc1.12.2-1.0.0.jar                                | None                                     |
+       | LCHIJ | astikorcarts                | 1.12.2-0.1.2.8         | astikorcarts-1.12.2-0.1.2.8.jar                              | None                                     |
+       | LCHIJ | attributefix                | 1.0.12                 | AttributeFix-Forge-1.12.2-1.0.12.jar                         | None                                     |
+       | LCHIJ | crafttweaker                | 4.1.20                 | CraftTweaker2-1.12-4.1.20.700.jar                            | None                                     |
+       | LCHIJ | mtlib                       | 3.0.7                  | MTLib-3.0.7.jar                                              | None                                     |
+       | LCHIJ | modtweaker                  | 4.0.19                 | modtweaker-4.0.20.11.jar                                     | None                                     |
+       | LCHIJ | jei                         | 4.16.1.1012            | jei_1.12.2-4.16.1.1012.jar                                   | None                                     |
+       | LCHIJ | quark                       | r1.6-179               | Quark-r1.6-179.jar                                           | None                                     |
+       | LCHIJ | autoreglib                  | 1.3-32                 | AutoRegLib-1.3-32.jar                                        | None                                     |
+       | LCHIJ | base                        | 3.14.0                 | base-1.12.2-3.14.0.jar                                       | None                                     |
+       | LCHIJ | battletowers                | 1.6.5                  | BattleTowers-1.12.2.jar                                      | None                                     |
+       | LCHIJ | baubles                     | 1.5.2                  | Baubles-1.12-1.5.2.jar                                       | None                                     |
+       | LCHIJ | bedbreakbegone              | 1.0.2                  | BedBreakBegone-1.0.2.jar                                     | None                                     |
+       | LCHIJ | llibrary                    | 1.7.20                 | llibrary-1.7.20-1.12.2.jar                                   | b9f30a813bee3b9dd5652c460310cfcd54f6b7ec |
+       | LCHIJ | iceandfire                  | 2.0.7                  | Ice and Fire-2.0.7.jar                                       | None                                     |
+       | LCHIJ | mantle                      | 1.12-1.3.3.55          | Mantle-1.12-1.3.3.55.jar                                     | None                                     |
+       | LCHIJ | inspirations                | 1.12.2-0.2.9           | Inspirations-1.12.2-0.2.9.jar                                | None                                     |
+       | LCHIJ | reachfix                    | 1.0.10                 | ReachFix-1.12.2-1.0.10.jar                                   | None                                     |
+       | LCHIJ | potioncore                  | 1.9_for_1.12.2         | PotionCore-1.9_for_1.12.2.jar                                | None                                     |
+       | LCHIJ | qualitytools                | 1.0.7_for_1.12.2       | QualityTools-1.0.7_for_1.12.2.jar                            | None                                     |
+       | LCHIJ | bettercombatmod             | 2.2.4                  | RLCombat-1.12.2-2.2.4.jar                                    | None                                     |
+       | LCHIJ | somanyenchantments          | 0.5.5                  | SoManyEnchantments-0.5.5.jar                                 | None                                     |
+       | LCHIJ | mujmajnkraftsbettersurvival | 1.5.4                  | better_survival-1.5.4.jar                                    | None                                     |
+       | LCHIJ | bettercaves                 | 1.12.2                 | bettercaves-1.12.2-2.0.4.jar                                 | None                                     |
+       | LCHIJ | bettermineshafts            | 1.12.2-2.2.1           | BetterMineshaftsForge-1.12.2-2.2.1.jar                       | None                                     |
+       | LCHIJ | betternether                | 0.1.8.6                | betternether-0.1.8.6.jar                                     | None                                     |
+       | LCHIJ | betterquesting              | 3.5.329                | BetterQuesting-3.5.329.jar                                   | None                                     |
+       | LCHIJ | forgelin                    | 1.8.4                  | Forgelin-1.8.4.jar                                           | None                                     |
+       | LCHIJ | librarianlib                | 4.22                   | librarianlib-1.12.2-4.22.jar                                 | None                                     |
+       | LCHIJ | classyhats                  | %VERSION%              | classyhats-1.6.0.jar                                         | None                                     |
+       | LCHIJ | levelup2                    | ${version}             | Level Up! 2-1.1.23-1.12.jar                                  | None                                     |
+       | LCHIJ | bettertabs                  | 1.0.4                  | BetterTabs-1.0.4.jar                                         | None                                     |
+       | LCHIJ | biomesoplenty               | 7.0.1.2445             | BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar                | None                                     |
+       | LCHIJ | bloodmoon                   | 1.5.3                  | Bloodmoon-MC1.12.2-1.5.3.jar                                 | d72e0dd57935b3e9476212aea0c0df352dd76291 |
+       | LCHIJ | bnbgaminglib                | 2.17.6                 | BNBGamingLib-1.12.2-2.17.6.jar                               | None                                     |
+       | LCHIJ | bountifulbaubles            | 0.0.1                  | Bountiful Baubles-1.12.2-0.1.8.jar                           | None                                     |
+       | LCHIE | bountiful                   | 2.2.3                  | Bountiful-1.12.2-2.2.3.jar                                   | None                                     |
+       | LCHI  | reccomplex                  | 1.4.8.6                | RecurrentComplex-1.4.8.6.jar                                 | None                                     |
+       | LCHI  | bq_msi                      | 1.0.9                  | BQ_Multiblock_Structure_Integration-1.0.9.jar                | None                                     |
+       | LCHI  | bqtweaker                   | 1.3.5                  | BQTweaker-1.3.5.jar                                          | None                                     |
+       | LCHI  | callablehorses              | 1.1.1                  | callablehorses-1.12.2-1.1.1.jar                              | None                                     |
+       | LCHI  | carryon                     | 1.12.3                 | carryon-1.12.2-1.12.7.23.jar                                 | None                                     |
+       | LCHI  | cd4017be_lib                | 6.5.1                  | CD4017BE_lib-1.12.2-6.5.1.jar                                | None                                     |
+       | LCHI  | champions                   | 1.12.2-1.0.11.10       | champions-1.12.2-1.0.11.10.jar                               | b33d2c8df492beff56d1bbbc92da49b8ab7345a1 |
+       | LCHI  | charm                       | 1.4                    | Charm-1.12.2-1.4.1.jar                                       | None                                     |
+       | LCHI  | collisiondamage             | 1.2.2                  | CollisionDamage-1.2.2.jar                                    | None                                     |
+       | LCHI  | comforts                    | 1.4.1.3                | comforts-1.12.2-1.4.1.3.jar                                  | 2484ef4d131fdc0dca0647aa21b7b944ddb935a1 |
+       | LCHI  | reskillable                 | 1.12.2-1.13.0          | Reskillable-1.12.2-1.13.0.jar                                | None                                     |
+       | LCHI  | compatskills                | 1.12.2-1.17.0          | CompatSkills-1.12.2-1.17.0.jar                               | None                                     |
+       | LCHI  | contentcreator              | 1.3.6-2                | ContentCreator-1.3.7-fix2.jar                                | None                                     |
+       | LCHI  | contenttweaker              | 1.12.2-4.10.0          | ContentTweaker-1.12.2-4.10.0.jar                             | None                                     |
+       | LCHI  | coralreef                   | 2.0                    | CoralReef-2.5-1.12.2.jar                                     | None                                     |
+       | LCHI  | wearablebackpacks           | 3.2.6                  | WearableBackpacks-RLCraft-1.12.2-3.2.6.jar                   | None                                     |
+       | LCHI  | corpsecomplex               | 1.0.12.0               | corpsecomplex-1.12.2-1.0.12.0.jar                            | b33d2c8df492beff56d1bbbc92da49b8ab7345a1 |
+       | LCHI  | craftablechainmail          | 1.0                    | craftablechainmail-1.0.jar                                   | None                                     |
+       | LCHI  | crafttweakerjei             | 2.0.3                  | CraftTweaker2-1.12-4.1.20.700.jar                            | None                                     |
+       | LCHI  | crafttweakerutils           | 0.7                    | crafttweakerutils-0.7.jar                                    | None                                     |
+       | LCHI  | creativecore                | 1.10.0                 | CreativeCore_v1.10.71_mc1.12.2.jar                           | None                                     |
+       | LCHI  | ctintegration               | 1.8.0                  | ctintegration-1.8.0.jar                                      | None                                     |
+       | LCHI  | defiledlands                | 1.4.3                  | defiledlands-1.12.2-1.4.3.jar                                | None                                     |
+       | LCHI  | disenchanter                | 1.8                    | disenchanter[1.12]1.8.jar                                    | None                                     |
+       | LCHI  | dldungeonsjbg               | 1.14.12                | DoomlikeDungeons-1.14.12-MC1.12.2.jar                        | None                                     |
+       | LCHI  | dynamictrees                | 1.12.2-0.9.29          | DynamicTrees-1.12.2-0.9.29.jar                               | None                                     |
+       | LCHI  | dynamictreesbop             | 1.12.2-9999.9999.9999z | DynamicTreesBOP-1.12.2-1.5.2.jar                             | None                                     |
+       | LCHI  | dynamictreesdefiledlands    | 1.12.2-1.0.0           | dynamictreesdefiledlands-1.12.2-1.0.0.jar                    | None                                     |
+       | LCHI  | traverse                    | 1.6.0                  | Traverse-1.12.2-1.6.0-69.jar                                 | None                                     |
+       | LCHI  | dttraverse                  | 1.12.2-2.1             | DynamicTreesTraverse-1.12.2-2.1.jar                          | None                                     |
+       | LCHI  | openterraingenerator        | v9.5-R2                | OpenTerrainGenerator-1.12.2-v9.5-R2.jar                      | None                                     |
+       | LCHI  | elenaidodge                 | 2.1                    | ElenaiDodge-1.12.2-2.1.jar                                   | None                                     |
+       | LCHI  | rustic                      | 1.1.7                  | rustic-1.1.7.jar                                             | None                                     |
+       | LCHI  | dregorarl                   | 2.5                    | DregoraRL-2.5.jar                                            | None                                     |
+       | LCHI  | dynamictreesquark           | 1.12.2-1.0.6           | DynamicTreesQuark-1.12.2-1.0.6.jar                           | None                                     |
+       | LCHI  | eaglemixins                 | 1.0.3                  | EagleMixins-1.0.3.jar                                        | None                                     |
+       | LCHI  | editableedibles             | 1.3.1                  | EditableEdibles-1.3.1.jar                                    | None                                     |
+       | LCHI  | epicsiegemod                | 13.167                 | EpicSiegeMod-13.167.jar                                      | None                                     |
+       | LCHI  | familiarfauna               | 1.0.11                 | FamiliarFauna-1.12.2-1.0.11.jar                              | None                                     |
+       | LCHI  | fantasticlib                | 1.12.2.047             | FantasticLib-1.12.2.047.jar                                  | None                                     |
+       | LCHI  | normalasm                   | 5.24                   | fermiumasm-5.24.jar                                          | None                                     |
+       | LCHI  | firstaid                    | 1.6.22                 | firstaid-1.6.22.jar                                          | 7904c4e13947c8a616c5f39b26bdeba796500722 |
+       | LCHI  | mod_lavacow                 | 1.4.2                  | Fish's Undead Rising-1.4.2.jar                               | None                                     |
+       | LCHI  | fishingmadebetter           | 2.2.6                  | FishingMadeBetter-1.12.2-2.2.6.jar                           | None                                     |
+       | LCHI  | foamfix                     | @VERSION@              | foamfix-0.10.15-1.12.2.jar                                   | None                                     |
+       | LCHI  | foodexpansion               | 1.3                    | FoodExpansion1.3.3-1.12.2.jar                                | None                                     |
+       | LCHI  | tschipplib                  | 1.1.6                  | tschipplib-1.12.2-1.1.7.jar                                  | None                                     |
+       | LCHI  | forgottenitems              | 1.2.1                  | forgottenitems-1.12.2-1.3.1.4.jar                            | None                                     |
+       | LCHI  | framevoidpatch              | 1.0.0                  | framevoidpatch-1.0.0.jar                                     | None                                     |
+       | LCHI  | friendlyendermite           | 1.0                    | FriendlyEndermite_v1.0.1_mc1.12.2.jar                        | None                                     |
+       | LCHI  | fxcontrol                   | 0.1.14                 | fxcontrol-1.12-0.1.15.jar                                    | None                                     |
+       | LCHI  | globalgamerules             | 2.2                    | GlobalGameRules-1.12.2-2.2.7.jar                             | None                                     |
+       | LCHI  | grapplemod                  | 1.12.2-v12.3           | grapplemod-1.12.2-v12.3.jar                                  | None                                     |
+       | LCHI  | helpfixer                   | 1.12.1-1.5.18          | HelpFixer-1.12.1-1.5.18.jar                                  | None                                     |
+       | LCHI  | ichunutil                   | 7.2.2                  | iChunUtil-1.12.2-7.2.2.jar                                   | 4db5c2bd1b556f252a5b8b54b256d381b2a0a6b8 |
+       | LCHI  | incontrol                   | 3.9.18                 | incontrol-1.12-3.9.18.jar                                    | None                                     |
+       | LCHI  | infernalmobs                | 1.7.6                  | InfernalMobs-1.12.2.jar                                      | None                                     |
+       | LCHI  | itlt                        | 1.0.4                  | itlt-1.12.x-1.0.4.jar                                        | None                                     |
+       | LCHI  | lagbgonrevived              | 1.1.0                  | lagbgonrevived-1.1.0.jar                                     | None                                     |
+       | LCHI  | locks                       | 3.0.0                  | Locks-1.12.2-3.0.0.jar                                       | None                                     |
+       | LCHI  | loottweaker                 | 0.3.1                  | LootTweaker-0.3.1+MC1.12.2.jar                               | None                                     |
+       | LCHI  | materialtweaker             | 1.1.1                  | MaterialTweaker-1.1.1.jar                                    | None                                     |
+       | LCHI  | mcwbridges                  | 1.0.6                  | mcw-bridges-1.0.6b-mc1.12.2.jar                              | None                                     |
+       | LCHI  | testdummy                   | 1.12                   | MmmMmmMmmMmm-1.12-1.14.jar                                   | None                                     |
+       | LCHI  | mobends                     | 1.2.1                  | MoBends_1.12.2-1.2.1-19.12.21.jar                            | None                                     |
+       | LCHI  | multimine                   | 1.6.2                  | MultiMine-1.12.2.jar                                         | None                                     |
+       | LCHI  | notreepunching              | 2.0.21                 | notreepunching-2.0.21.jar                                    | None                                     |
+       | LCHI  | pigstep                     | 1.12                   | pigstep-1.12.jar                                             | None                                     |
+       | LCHI  | placebo                     | 1.6.0                  | Placebo-1.12.2-1.6.1.jar                                     | None                                     |
+       | LCHI  | playerbosses                | 1.0                    | playerbosses-1.12.2-1.1.0.jar                                | 1bc8f8dbe770187a854cef35dad0ff40ba441bbe |
+       | LCHI  | portaldupebegone            | 1.0.0                  | PortalDupeBegone-1.0.0.jar                                   | None                                     |
+       | LCHI  | potionfingers               | r1.0-8                 | PotionFingers-r1.0-8.jar                                     | None                                     |
+       | LCHI  | realistictorches            | 2.1.2                  | RealisticTorches-1.12.2-2.1.2.jar                            | None                                     |
+       | LCHI  | reborncore                  | 3.19.5                 | RebornCore-1.12.2-3.19.5-universal.jar                       | None                                     |
+       | LCHI  | artifacts                   | 1.1.2                  | RLArtifacts-1.1.2.jar                                        | None                                     |
+       | LCHI  | rlmixins                    | 1.3.16                 | RLMixins-1.3.16.jar                                          | None                                     |
+       | LCHI  | rltweaker                   | 0.6.8                  | RLTweaker-1.12.2-0.6.8.jar                                   | None                                     |
+       | LCHI  | roguelike                   | 2.4.6                  | RoguelikeDungeonsFnarEdition-1.12.2-2.4.6.jar                | None                                     |
+       | LCHI  | roughtweaks                 | 1.0                    | roughTweaks0.2.4-1.12.2.jar                                  | None                                     |
+       | LCHI  | silentlib                   | 3.0.13                 | SilentLib-1.12.2-3.0.14+168.jar                              | None                                     |
+       | LCHI  | scalinghealth               | 1.3.37                 | ScalingHealth-1.12.2-1.3.42+147.jar                          | None                                     |
+       | LCHI  | sereneseasons               | 1.2.18                 | SereneSeasons-1.12.2-1.2.18-universal.jar                    | None                                     |
+       | LCHI  | setbonus                    | 1.12.2.020             | SetBonus-1.12.2.020.jar                                      | None                                     |
+       | LCHI  | shieldbreak                 | 1.1.3                  | ShieldBreak-1.1.3.jar                                        | None                                     |
+       | LCHI  | simpledifficulty            | 0.3.9                  | SimpleDifficulty-1.12.2-0.3.9.jar                            | None                                     |
+       | LCHI  | sit                         | v1.3                   | sit-1.12.2-v1.3.jar                                          | None                                     |
+       | LCHI  | snowrealmagic               | 0.7.1                  | SnowRealMagic-1.12.2-0.7.1.jar                               | None                                     |
+       | LCHI  | spark                       | 1.11.2                 | spark-unforged-1.11.2-forge.jar                              | None                                     |
+       | LCHI  | spartandefiled              | 1.12.2-1.2             | spartandefiled-1.12.2-1.2.jar                                | None                                     |
+       | LCHI  | xat                         | 0.32.5                 | Trinkets and Baubles-0.32.5.jar                              | None                                     |
+       | LCHI  | spartanweaponry             | 1.6.0                  | SpartanWeaponry-1.12.2-1.6.0.jar                             | None                                     |
+       | LCHI  | spartanfire                 | 1.3.2                  | spartanfire_rlcraft-1.3.2.jar                                | None                                     |
+       | LCHI  | spartanshields              | 1.5.5                  | SpartanShields-1.12.2-1.5.5.jar                              | None                                     |
+       | LCHI  | spawnercontrol              | 1.6.3b                 | SpawnerControl-1.6.3b.jar                                    | None                                     |
+       | LCHI  | srparasites                 | 1.9.21                 | SRParasites-1.12.2v1.9.21.jar                                | None                                     |
+       | LCHI  | srpmultiplier               | 2.0.9                  | SRPMultiplier-2.0.9.jar                                      | None                                     |
+       | LCHI  | bq_standard                 | 3.4.173                | StandardExpansion-3.4.173.jar                                | None                                     |
+       | LCHI  | surge                       | 2.0.79                 | Surge-1.12.2-2.0.79.jar                                      | d476d1b22b218a10d845928d1665d45fce301b27 |
+       | LCHI  | switchbow                   | 1.6.8                  | switchbow-1.6.8.jar                                          | None                                     |
+       | LCHI  | tnt_utilities               | 1.2.3                  | tnt_utilities-mc1.12-1.2.3.jar                               | None                                     |
+       | LCHI  | toolbelt                    | 1.9.14                 | ToolBelt-1.12.2-1.9.14.jar                                   | None                                     |
+       | LCHI  | trumpetskeleton             | 1.12-1.0.2.1           | trumpetskeleton-1.12-1.0.2.1.jar                             | None                                     |
+       | LCHI  | tumbleweed                  | 1.12-0.4.7             | tumbleweed-1.12-0.4.7.jar                                    | None                                     |
+       | LCHI  | underneath                  | 1.6                    | Underneath-1.6.jar                                           | None                                     |
+       | LCHI  | variedcommodities           | 1.12.2                 | VariedCommodities_1.12.2-(31Mar23).jar                       | None                                     |
+       | LCHI  | dimstack                    | 0.1.9                  | VerticallyStackedDimensions-1.12.2-0.1.9.jar                 | None                                     |
+       | LCHI  | waystones                   | 4.1.0                  | Waystones_1.12.2-4.1.0.jar                                   | None                                     |
+       | LCHI  | wolfarmor                   | 3.8.1+alpha.1          | WolfArmorAndStorage-3.8.1+1.12.2.alpha.1-SNAPSHOT-signed.jar | e94e38a605842477f3ec218e6fcf781f6b3f7f89 |
+       | LCHI  | xpfromharvest               | 1.2.0                  | XPFromHarvest-1.12.2-1.2.0.jar                               | None                                     |
+       | LCHI  | xpbook                      | v1.1.6                 | xptome-1.12.2-v1.1.6.jar                                     | None                                     |
+       | LCHI  | yungslaw                    | 1.12.2                 | YungsLaw-1.12.2-1.0.4.jar                                    | None                                     |
+       | LCHI  | kiwi                        | 0.5.3.32               | Kiwi-1.12.2-0.5.3.32.jar                                     | None                                     |
+       | LCHI  | orelib                      | 3.6.0.1                | OreLib-1.12.2-3.6.0.1.jar                                    | 7a2128d395ad96ceb9d9030fbd41d035b435753a |
+       | LCHI  | librarianliblate            | 4.22                   | librarianlib-1.12.2-4.22.jar                                 | None                                     |
+  Loaded coremods (and transformers): MixinLoader (BedBreakBegone-1.0.2.jar)
+                                        
+                                      SimpleDifficulty ASM (SimpleDifficulty-1.12.2-0.3.9.jar)
+                                        com.charles445.simpledifficulty.asm.SimpleDifficultyASM
+                                      Spark (spark-unforged-1.11.2-forge.jar)
+                                        
+                                      LibrarianLib Plugin (librarianlib-1.12.2-4.22.jar)
+                                        com.teamwizardry.librarianlib.asm.LibLibTransformer
+                                      FermiumBooter (`FermiumBooter-1.1.1.jar)
+                                        
+                                      LoadingPlugin (ChunkAnimator-1.12.2-1.2.1.jar)
+                                        lumien.chunkanimator.asm.ClassTransformer
+                                      WolfArmorCore (WolfArmorAndStorage-3.8.1+1.12.2.alpha.1-SNAPSHOT-signed.jar)
+                                        
+                                      IceAndFirePlugin (Ice and Fire-2.0.7.jar)
+                                        com.github.alexthe666.iceandfire.asm.IceAndFireClassTransformer
+                                      ItemPatchingLoader (ItemPhysic_Full_1.4.37_mc1.12.2.jar)
+                                        com.creativemd.itemphysic.ItemTransformer
+                                      OTGCorePlugin (OTG-Core.jar)
+                                        com.pg85.otg.forge.asm.excluded.OTGClassTransformer
+                                      MixinLoader (Locks-1.12.2-3.0.0.jar)
+                                        
+                                      ReachFixPlugin (ReachFix-1.12.2-1.0.10.jar)
+                                        meldexun.reachfix.asm.ReachFixClassTransformer
+                                      SpartanWeaponry-MixinLoader (SpartanWeaponry-1.12.2-1.6.0.jar)
+                                        
+                                      Quark Plugin (Quark-r1.6-179.jar)
+                                        vazkii.quark.base.asm.ClassTransformer
+                                      EditableEdiblesPlugin (EditableEdibles-1.3.1.jar)
+                                        
+                                      LoadingPlugin (Bloodmoon-MC1.12.2-1.5.3.jar)
+                                        lumien.bloodmoon.asm.ClassTransformer
+                                      BetterFoliageLoader (RLFoliage-MC1.12-2.4.2.jar)
+                                        mods.betterfoliage.loader.BetterFoliageTransformer
+                                      Content Creator (ContentCreator-1.3.7-fix2.jar)
+                                        surreal.contentcreator.core.CCClassTransformer
+                                      MMFMLCorePlugin (MultiMine-1.12.2.jar)
+                                        atomicstryker.multimine.common.fmlmagic.MMTransformer
+                                      BetterCombat (RLCombat-1.12.2-2.2.4.jar)
+                                        
+                                      ParticleCullingLoadingPlugin (particleculling-1.12.2-v1.4.3.jar)
+                                        
+                                      LoadingPlugin (ResourceLoader-MC1.12.1-1.5.3.jar)
+                                        lumien.resourceloader.asm.ClassTransformer
+                                      IvToolkit (IvToolkit-1.3.3-1.12.jar)
+                                        
+                                      LoadingPlugin (Reskillable-1.12.2-1.13.0.jar)
+                                        codersafterdark.reskillable.base.asm.ClassTransformer
+                                      Vertically Stacked Dimensions ASM (VerticallyStackedDimensions-1.12.2-0.1.9.jar)
+                                        cd4017be.dimstack.asm.ChunkPrimerTransformer
+                                        cd4017be.dimstack.asm.BlockPortalTransformer
+                                      RLMixinsPlugin (RLMixins-1.3.16.jar)
+                                        
+                                      Born in a Barn (Born In A Barn 1.8-1.12-1.2.jar)
+                                        com.chocohead.biab.BornInABarn
+                                      RLTweaker ASM (RLTweaker-1.12.2-0.6.8.jar)
+                                        com.charles445.rltweaker.asm.RLTweakerASM
+                                      RBLoadingPlugin (RealBench-1.12.2-1.3.3.jar)
+                                        pw.prok.realbench.asm.RBTransformer
+                                      SSLoadingPlugin (SereneSeasons-1.12.2-1.2.18-universal.jar)
+                                        sereneseasons.asm.transformer.EntityRendererTransformer
+                                        sereneseasons.asm.transformer.WorldTransformer
+                                      Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (foamfix-0.10.15-1.12.2.jar)
+                                        pl.asie.foamfix.coremod.FoamFixTransformer
+                                      SoManyEnchantments ASM (SoManyEnchantments-0.5.5.jar)
+                                        com.Shultrea.Rin.Transformer.SMEASM
+                                      FermiumASM (fermiumasm-5.24.jar)
+                                        
+                                      ForgelinPlugin (Forgelin-1.8.4.jar)
+                                        
+                                      MaterialTweakerPlugin (MaterialTweaker-1.1.1.jar)
+                                        
+                                      EagleMixinsPlugin (EagleMixins-1.0.3.jar)
+                                        
+                                      Snow! Real Magic! (SnowRealMagic-1.12.2-0.7.1.jar)
+                                        
+                                      SurgeLoadingPlugin (Surge-1.12.2-2.0.79.jar)
+                                        
+                                      CharmLoadingPlugin (Charm-1.12.2-1.4.1.jar)
+                                        svenhjol.charm.base.CharmClassTransformer
+                                      llibrary (llibrary-core-1.0.11-1.12.2.jar)
+                                        net.ilexiconn.llibrary.server.core.plugin.LLibraryTransformer
+                                        net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+                                      CreativePatchingLoader (CreativeCore_v1.10.71_mc1.12.2.jar)
+                                        
+                                      CorePlugin (ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar)
+                                        
+                                      SRPMultiplierPlugin (SRPMultiplier-2.0.9.jar)
+                                        
+                                      Better Biome Blend (betterbiomeblend-1.12.2-1.1.7-forge.jar)
+                                        
+                                      TNTUtilities Core (tnt_utilities-mc1.12-1.2.3.jar)
+                                        ljfa.tntutils.asm.ExplosionTransformer
+                                      MixinLoader (framevoidpatch-1.0.0.jar)
+  Pulsar/inspirations loaded Pulses: - InspirationsShared (Enabled/Forced)
+                                     - InspirationsBuilding (Enabled/Not Forced)
+                                     - InspirationsUtility (Enabled/Not Forced)
+                                     - InspirationsTools (Enabled/Not Forced)
+                                     - InspirationsRecipes (Enabled/Not Forced)
+                                     - InspirationsTweaks (Enabled/Not Forced)
+                                     - InspirationsShared (Enabled/Forced)
+  No Tree Punching: You are not running an official build. This version will NOT be supported by the author.
+  RebornCore: Plugin Engine: 0
+              RebornCore Version: 3.19.5
+              Runtime Debofucsation 1
+              Invalid fingerprint detected for RebornCore!
+  RLTweaker Error Report: 
+  Suspected Mods: Bountiful (bountiful), Forge Mod Loader (FML), Minecraft Forge (forge)
+  Profiler Position: N/A (disabled)
+  Is Modded: Definitely; Server brand changed to 'fml,forge'
+  Type: Dedicated Server (map_server.txt)
