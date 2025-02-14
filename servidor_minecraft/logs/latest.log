@@ -5641,3 +5641,16 @@ Terrain features that depend on these won't work correctly.
 [00:56:27] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
 [00:56:27] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
 [00:56:27] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[01:00:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SolgaleoHD lost connection: Disconnected
+[01:00:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SolgaleoHD left the game
+[01:01:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[01:01:13] [Server thread/INFO] [AUW]: Stopping DS...
+[01:01:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:01:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:01:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:01:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DregoraRL'/overworld
+[01:01:13] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (DregoraRL) to config
+[01:01:14] [Server thread/INFO] [FML]: Unloading dimension 0
+[01:01:14] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:01:14] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:01:14] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
